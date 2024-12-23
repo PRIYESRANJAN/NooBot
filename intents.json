@@ -1,0 +1,3477 @@
+{
+  "intents": [
+    {
+      "tag": "College Name",
+      "patterns": [
+        "Tell me college name.",
+        "College ka Name kya hai",
+        "college name please.",
+        "What is your college name.",
+        "Tell me your college name."
+      ],
+      "responses": [
+        "The name of my college is Government Engineering College Banka.",
+        "I study at Gec Banka.",
+        "My college is called Govt. Engg. College."
+      ]
+    },
+
+
+
+
+    {
+      "tag": "Admission Process",
+      "patterns": [
+        "What is the admission process for the college?",
+        "College ka admission process kya hai?",
+        "How can I apply for admission?",
+        "Mujhe admission ke liye kya documents chahiye?"
+      ],
+      "responses": [
+        "The admission process typically involves filling out an application form, submitting required documents, and attending an interview if necessary.",
+        "College ka admission process mein application form bharna, zaroori documents submit karna, aur agar zaroorat ho to interview dena shamil hai.",
+        "You can apply for admission through the college's official website or by visiting the admissions office.",
+        "Admission ke liye aap college ki official website par ya admissions office mein jakar apply kar sakte hain."
+      ]
+    },
+    {
+      "tag": "Scholarships",
+      "patterns": [
+        "Are there any scholarships available?",
+        "Kya mujhe scholarship mil sakti hai?",
+        "How can I apply for a scholarship?",
+        "Scholarship ke liye apply karne ka process kya hai?"
+      ],
+      "responses": [
+        "Yes, the college offers various scholarships based on merit and financial need.",
+        "Haan, college mein merit aur financial need ke adhar par kai scholarships uplabdh hain.",
+        "You can apply for scholarships by filling out the scholarship application form available on the college website.",
+        "Scholarship ke liye aap college ki website par uplabdh scholarship application form bhar kar apply kar sakte hain."
+      ]
+    },
+    {
+      "tag": "Exam Syllabus",
+      "patterns": [
+        "What is the syllabus for the upcoming exams?",
+        "Aane wale exams ka syllabus kya hai?",
+        "Where can I find the exam syllabus?",
+        "Exam syllabus kahan milega?"
+      ],
+      "responses": [
+        "The exam syllabus can be found on the college's official website or through the academic department.",
+        "Exam syllabus college ki official website ya academic department se mil sakta hai.",
+        "You can also check with your professors for any specific syllabus details.",
+        "Aap apne professors se bhi kisi specific syllabus details ke liye pooch sakte hain."
+      ]
+    },
+    {
+      "tag": "Library Facilities",
+      "patterns": [
+        "Is there a library in the college?",
+        "Kya college mein library hai?",
+        "What are the library hours?",
+        "Library ki timings kya hain?"
+      ],
+      "responses": [
+        "Yes, there is a library in the college that provides a wide range of books and resources.",
+        "Haan, college mein ek library hai jo kai tarah ki kitaabein aur resources pradan karti hai.",
+        "The library is open from 9 AM to 5 PM on weekdays.",
+        "Library ki timings weekdays mein 9 AM se 5 PM tak hain."
+      ]
+    },
+    {
+      "tag": "Placement Cell",
+      "patterns": [
+        "What is the role of the placement cell?",
+        "Placement cell ka kya role hai?",
+        "How can I register for placements?",
+        "Mujhe placements ke liye kaise register karna hai?"
+      ],
+      "responses": [
+        "The placement cell assists students in finding job opportunities and preparing for interviews.",
+        "Placement cell students ko job opportunities dhoondhne aur interviews ke liye tayyar karne mein madad karta hai.",
+        "You can register for placements by filling out the registration form available at the placement cell office.",
+        "Placements ke liye aap placement cell office mein uplabdh registration form bhar kar register kar sakte hain."
+      ]
+    },
+    {
+      "tag": "Internship Opportunities",
+      "patterns": [
+        "Are there internship opportunities available?",
+        "Kya internship ke liye opportunities hain?",
+        "How can I apply for an internship?",
+        "Internship ke liye apply karne ka process kya hai?"
+      ],
+      "responses": [
+        "Yes, the college provides various internship opportunities for students.",
+        "Haan, college students ke liye kai internship opportunities pradan karta hai.",
+        "You can apply for internships through the placement cell or by checking with your professors.",
+        "Aap internships ke liye placement cell ke through ya apne professors se pooch kar apply kar sakte hain."
+      ]
+    },
+    {
+      "tag": "Extracurricular Activities",
+      "patterns": [
+        "What extracurricular activities are available?",
+        "Kya extracurricular activities uplabdh hain?",
+        "How can I participate in extracurricular activities?",
+        "Extracurricular activities mein kaise participate kar sakta hoon?"
+      ],
+      "responses": [
+        "The college offers various extracurricular activities, including sports, cultural events, and clubs.",
+        "College mein kai tarah ki extracurricular activities hain, jaise sports, cultural events, aur clubs.",
+        "You can participate by signing up for activities during the orientation week or by contacting the respective club coordinators.",
+        "Aap orientation week ke dauran activities ke liye sign up karke ya respective club coordinators se sampark karke participate kar sakte hain."
+      ]
+    },
+    {
+      "tag": "Attendance Policy",
+      "patterns": [
+        "What is the attendance policy?",
+        "Attendance policy kya hai?",
+        "How much attendance is required to sit for exams?",
+        "Exams ke liye kitni attendance chahiye?"
+      ],
+      "responses": [
+        "The attendance policy requires students to maintain at least 75% attendance to be eligible for exams.",
+        "Attendance policy ke anusar students ko exams ke liye eligible hone ke liye kam se kam 75% attendance maintain karni hoti hai.",
+        "You can check the detailed attendance policy in the student handbook or on the college website.",
+        "Aap detailed attendance policy student handbook ya college ki website par dekh sakte hain."
+      ]
+    },
+    {
+      "tag": "Course Registration",
+      "patterns": [
+        "How do I register for courses?",
+        "Courses ke liye kaise register karun?",
+        "What is the deadline for course registration?",
+        "Course registration ki last date kya hai?"
+      ],
+      "responses": [
+        "You can register for courses through the college's online portal during the registration period.",
+        "Aap college ke online portal ke through registration period ke dauran courses ke liye register kar sakte hain.",
+        "The deadline for course registration is usually announced at the beginning of each semester.",
+        "Course registration ki last date har semester ke shuru hone par announce ki jati hai."
+      ]
+    },
+    {
+      "tag": "Exam Schedule",
+      "patterns": [
+        "When will the exam schedule be released?",
+        "Exam schedule kab release hoga?",
+        "How can I find the exam schedule?",
+        "Exam schedule kahan milega?"
+      ],
+      "responses": [
+        "The exam schedule is usually released a few weeks before the exams and can be found on the college website.",
+        "Exam schedule aam taur par exams se kuch hafte pehle release hota hai aur college ki website par milta hai.",
+        "You can also check with your professors for any updates regarding the exam schedule.",
+        "Aap apne professors se bhi exam schedule ke liye kisi bhi update ke liye pooch sakte hain."
+      ]
+    },
+    {
+      "tag": "Student Support Services",
+      "patterns": [
+        "What support services are available for students?",
+        "Students ke liye kaunse support services uplabdh hain?",
+        "How can I access counseling services?",
+        "Counseling services kaise access karun?"
+      ],
+      "responses": [
+        "The college offers various support services, including counseling, academic advising, and mental health resources.",
+        "College kai tarah ki support services pradan karta hai, jaise counseling, academic advising, aur mental health resources.",
+        "You can access counseling services by visiting the counseling center or scheduling an appointment online.",
+        "Aap counseling services ko counseling center mein jakar ya online appointment schedule karke access kar sakte hain."
+      ]
+    },
+    {
+      "tag": "Career Guidance",
+      "patterns": [
+        "Does the college provide career guidance?",
+        "Kya college career guidance pradan karta hai?",
+        "How can I get career counseling?",
+        "Career counseling kaise le sakta hoon?"
+      ],
+      "responses": [
+        "Yes, the college provides career guidance services to help students with job placements and internships.",
+        "Haan, college job placements aur internships mein madad karne ke liye career guidance services pradan karta hai.",
+        "You can get career counseling by visiting the placement cell or attending career workshops.",
+        "Aap placement cell mein jakar ya career workshops attend karke career counseling le sakte hain."
+      ]
+    },
+    {
+      "tag": "Feedback Mechanism",
+      "patterns": [
+        "How can I provide feedback about the college?",
+        "College ke baare mein feedback kaise de sakta hoon?",
+        "Is there a suggestion box in the college?",
+        "Kya college mein suggestion box hai?"
+      ],
+      "responses": [
+        "You can provide feedback through the online feedback form available on the college website.",
+        "Aap college ki website par uplabdh online feedback form ke through feedback de sakte hain.",
+        "Yes, there is a suggestion box located in the main administrative building.",
+        "Haan, main administrative building mein ek suggestion box hai."
+      ]
+    },
+    {
+      "tag": "Cultural Events",
+      "patterns": [
+        "What cultural events are organized by the college?",
+        "College dwara kaunse cultural events organize kiye jaate hain?",
+        "How can I participate in cultural events?",
+        "Cultural events mein kaise participate kar sakta hoon?"
+      ],
+      "responses": [
+        "The college organizes various cultural events such as festivals, talent shows, and competitions.",
+        "College kai cultural events organize karta hai, jaise festivals, talent shows, aur competitions.",
+        "You can participate by signing up during the event announcements or contacting the cultural committee.",
+        "Aap event announcements ke dauran sign up karke ya cultural committee se sampark karke participate kar sakte hain."
+      ]
+    },
+    {
+      "tag": "Health Services",
+      "patterns": [
+        "Are there health services available on campus?",
+        "Kya campus par health services uplabdh hain?",
+        "How can I access medical assistance?",
+        "Medical assistance kaise le sakta hoon?"
+      ],
+      "responses": [
+        "Yes, the college has a health center that provides medical services to students.",
+        "Haan, college mein ek health center hai jo students ko medical services pradan karta hai.",
+        "You can access medical assistance by visiting the health center during its operating hours.",
+        "Aap health center ke operating hours mein jakar medical assistance le sakte hain."
+      ]
+    },
+    {
+      "tag": "Transportation",
+      "patterns": [
+        "Is there a transportation facility provided by the college?",
+        "Kya college dwara transportation facility pradan ki jaati hai?",
+        "What are the transportation options available?",
+        "Transportation ke liye kaunse options uplabdh hain?"
+      ],
+      "responses": [
+        "Yes, the college provides transportation facilities for students, including buses and shuttles.",
+        "Haan, college students ke liye transportation facilities pradan karta hai, jisme buses aur shuttles shamil hain.",
+        "You can check the transportation schedule on the college website or at the transportation office.",
+        "Aap transportation schedule college ki website par ya transportation office mein dekh sakte hain."
+      ]
+    },
+    {
+      "tag": "Student Organizations",
+      "patterns": [
+        "What student organizations are available?",
+        "Kya student organizations uplabdh hain?",
+        "How can I join a student organization?",
+        "Student organization join karne ka process kya hai?"
+      ],
+      "responses": [
+        "The college has various student organizations focused on academics, culture, and social service.",
+        "College mein academics, culture, aur social service par kendrit kai student organizations hain.",
+        "You can join a student organization by filling out a membership form during the organization’s recruitment drive.",
+        "Aap organization ke recruitment drive ke dauran membership form bhar kar student organization join kar sakte hain."
+      ]
+    },
+    {
+      "tag": "Academic Calendar",
+      "patterns": [
+        "Where can I find the academic calendar?",
+        "Academic calendar kahan milega?",
+        "What are the important dates in the academic calendar?",
+        "Academic calendar mein important dates kya hain?"
+      ],
+      "responses": [
+        "The academic calendar is available on the college's official website.",
+        "Academic calendar college ki official website par uplabdh hai.",
+        "Important dates include the start and end of semesters, exam dates, and holidays.",
+        "Important dates mein semesters ka shuruat aur ant, exam dates, aur holidays shamil hain."
+      ]
+    },
+    {
+      "tag": "Grievance Redressal",
+      "patterns": [
+        "How can I file a grievance?",
+        "Grievance file karne ka process kya hai?",
+        "Is there a grievance redressal cell in the college?",
+        "Kya college mein grievance redressal cell hai?"
+      ],
+      "responses": [
+        "You can file a grievance by submitting a written complaint to the grievance redressal cell located in the administrative building.",
+        "Aap grievance redressal cell ko likhit shikayat dekar grievance file kar sakte hain, jo administrative building mein hai.",
+        "Yes, the college has a grievance redressal cell to address student complaints and issues.",
+        "Haan, college mein students ki shikayaton aur samasyaon ko suljhane ke liye grievance redressal cell hai."
+      ]
+    },
+    {
+      "tag": "Workshops and Seminars",
+      "patterns": [
+        "Are there any workshops or seminars scheduled?",
+        "Kya koi workshops ya seminars scheduled hain?",
+        "How can I register for workshops?",
+        "Workshops ke liye kaise register karun?"
+      ],
+      "responses": [
+        "Yes, the college regularly organizes workshops and seminars on various topics.",
+        "Haan, college niyamit roop se kai vishayon par workshops aur seminars ka aayojan karta hai.",
+        "You can register for workshops by filling out the registration form available at the event or on the college website.",
+        "Aap workshops ke liye event par ya college ki website par uplabdh registration form bhar kar register kar sakte hain."
+      ]
+    },
+    {
+      "tag": "Student ID and Credentials",
+      "patterns": [
+        "How can I obtain my student ID?",
+        "Mujhe apna student ID kaise milega?",
+        "What should I do if I lose my student ID?",
+        "Agar mera student ID kho jaye to mujhe kya karna chahiye?"
+      ],
+      "responses": [
+        "You can obtain your student ID from the admissions office after completing the registration process.",
+        "Aap registration process complete karne ke baad admissions office se apna student ID prapt kar sakte hain.",
+        "If you lose your student ID, report it to the admissions office to get a replacement.",
+        "Agar aap apna student ID kho dete hain, to admissions office ko report karke replacement prapt kar sakte hain."
+      ]
+    },
+    {
+      "tag": "Final Year Projects",
+      "patterns": [
+        "What are the guidelines for final year projects?",
+        "Final year projects ke liye guidelines kya hain?",
+        "How can I choose a topic for my final year project?",
+        "Mujhe apne final year project ke liye topic kaise choose karna chahiye?"
+      ],
+      "responses": [
+        "The guidelines for final year projects can be found in the student handbook or provided by your department.",
+        "Final year projects ke liye guidelines student handbook mein ya aapke department dwara pradan ki jati hain.",
+        "You can choose a topic based on your interests and consult with your project supervisor for guidance.",
+        "Aap apne ruchi ke aadhar par topic choose kar sakte hain aur guidance ke liye apne project supervisor se sampark kar sakte hain."
+      ]
+    },
+    {
+      "tag": "Online Learning Resources",
+      "patterns": [
+        "What online learning resources are available?",
+        "Kya online learning resources uplabdh hain?",
+        "How can I access online courses?",
+        "Online courses kaise access karun?"
+      ],
+      "responses": [
+        "The college provides access to various online learning resources, including e-books, journals, and online courses.",
+        "College kai online learning resources pradan karta hai, jaise e-books, journals, aur online courses.",
+        "You can access online courses through the college's learning management system (LMS).",
+        "Aap college ke learning management system (LMS) ke through online courses access kar sakte hain."
+      ]
+    },
+    {
+      "tag": "Networking Opportunities",
+      "patterns": [
+        "Are there networking opportunities for students?",
+        "Kya students ke liye networking opportunities hain?",
+        "How can I network with industry professionals?",
+        "Industry professionals se networking kaise karun?"
+      ],
+      "responses": [
+        "Yes, the college organizes networking events and guest lectures with industry professionals.",
+        "Haan, college networking events aur industry professionals ke saath guest lectures ka aayojan karta hai.",
+        "You can network by attending these events and engaging with the speakers and other attendees.",
+        "Aap in events mein shamil hoke speakers aur dusre attendees ke saath samvaad karke networking kar sakte hain."
+      ]
+    },
+    {
+      "tag": "Student Exchange Programs",
+      "patterns": [
+        "Does the college offer student exchange programs?",
+        "Kya college student exchange programs pradan karta hai?",
+        "How can I apply for a student exchange program?",
+        "Student exchange program ke liye kaise apply karun?"
+      ],
+      "responses": [
+        "Yes, the college offers student exchange programs with partner institutions.",
+        "Haan, college partner institutions ke saath student exchange programs pradan karta hai.",
+        "You can apply for a student exchange program by contacting the international relations office.",
+        "Aap international relations office se sampark karke student exchange program ke liye apply kar sakte hain."
+      ]
+    },
+    {
+      "tag": "Alumni Network",
+      "patterns": [
+        "Is there an alumni network for the college?",
+        "Kya college ka alumni network hai?",
+        "How can I connect with alumni?",
+        "Alumni se kaise connect karun?"
+      ],
+      "responses": [
+        "Yes, the college has an active alumni network that helps current students connect with alumni.",
+        "Haan, college ka ek sakriya alumni network hai jo current students ko alumni se jodne mein madad karta hai.",
+        "You can connect with alumni through alumni events or the college's alumni portal.",
+        "Aap alumni events ya college ke alumni portal ke through alumni se connect kar sakte hain."
+      ]
+    },
+    {
+      "tag": "Research Opportunities",
+      "patterns": [
+        "Are there research opportunities available for students?",
+        "Kya students ke liye research opportunities uplabdh hain?",
+        "How can I get involved in research projects?",
+        "Research projects mein kaise shamil ho sakta hoon?"
+      ],
+      "responses": [
+        "Yes, the college offers various research opportunities for students in different fields.",
+        "Haan, college alag-alag kshetron mein students ke liye kai research opportunities pradan karta hai.",
+        "You can get involved in research projects by contacting faculty members or the research department.",
+        "Aap faculty members ya research department se sampark karke research projects mein shamil ho sakte hain."
+      ]
+    },
+    {
+      "tag": "Class Schedule",
+      "patterns": [
+        "How can I find my class schedule?",
+        "Class timing kya hai",
+        "what is class timing",
+        "Mujhe apna class schedule kaise milega?",
+        "What should I do if my class schedule changes?",
+        "Agar mera class schedule badalta hai to mujhe kya karna chahiye?",
+        "Kya main apne class schedule ko online dekh sakta hoon?",
+        "Class schedule ke liye mujhe kis website par jana chahiye?",
+        "Mujhe apne classes ka time table kaise milega?",
+        "Agar mujhe apna class schedule nahi milta to kya karun?",
+        "Kya class schedule mein koi changes hone par mujhe inform kiya jayega?",
+        "Mujhe apne class schedule ki details kahan milengi?"
+      ],
+      "responses": [
+        "You can find your class schedule on the college's online portal or through the academic department.",
+        "Aap apna class schedule college ke online portal ya academic department se dekh sakte hain.",
+        "If your class schedule changes, you will be notified via email or through the college's announcement system.",
+        "Agar aapka class schedule badalta hai, to aapko email ya college ke announcement system ke through suchit kiya jayega.",
+        "Aap apne class schedule ko online dekh sakte hain college ke official website par.",
+        "Class schedule ke liye aapko college ke online portal par jana chahiye.",
+        "Aap apne classes ka time table college ke academic department se prapt kar sakte hain.",
+        "Agar aapko apna class schedule nahi milta, to aap apne academic advisor se sampark kar sakte hain.",
+        "Haan, agar class schedule mein koi changes hote hain, to aapko suchit kiya jayega.",
+        "Aap apne class schedule ki details college ke online portal ya academic department se prapt kar sakte hain."
+      ]
+    },
+    {
+      "tag": "Final Exam Preparation",
+      "patterns": [
+        "How can I prepare for final exams?",
+        "Final exams ke liye kaise tayyari karun?",
+        "Are there any study groups for final exam preparation?",
+        "Final exam preparation ke liye study groups hain kya?"
+      ],
+      "responses": [
+        "To prepare for final exams, create a study schedule, review your notes, and practice past exam papers.",
+        "Final exams ke liye tayyari karne ke liye ek study schedule banayein, apne notes ka punaravalokan karein, aur pichle exam papers ka abhyas karein.",
+        "Yes, there are study groups organized by students for final exam preparation.",
+        "Haan, final exam preparation ke liye students dwara study groups ka aayojan kiya jata hai."
+      ]
+    },
+    {
+      "tag": "Internship Guidelines",
+      "patterns": [
+        "What are the guidelines for internships?",
+        "Internships ke liye guidelines kya hain?",
+        "How can I find internship opportunities?",
+        "Internship opportunities kaise dhoondun?"
+      ],
+      "responses": [
+        "The guidelines for internships include eligibility criteria, application procedures, and reporting requirements.",
+        "Internships ke liye guidelines mein eligibility criteria, application procedures, aur reporting requirements shamil hain.",
+        "You can find internship opportunities through the placement cell, online job portals, and networking events.",
+        "Aap internship opportunities placement cell, online job portals, aur networking events ke through dhoond sakte hain."
+      ]
+    },
+    {
+      "tag": "Time Management",
+      "patterns": [
+        "How can I manage my time effectively?",
+        "Main apna samay kaise sahi se prabandhit karun?",
+        "Are there any tips for better time management?",
+        "Behtar time management ke liye koi tips hain kya?"
+      ],
+      "responses": [
+        "To manage your time effectively, prioritize tasks, set specific goals, and create a daily schedule.",
+        "Apne samay ko sahi se prabandhit karne ke liye, tasks ko prathmikta dein, specific goals set karein, aur ek daily schedule banayein.",
+        "Some tips for better time management include avoiding procrastination and using tools like calendars and to-do lists.",
+        "Behtar time management ke liye kuch tips hain jaise procrastination se bachein aur calendars aur to-do lists jaise tools ka istemal karein."
+      ]
+    },
+    {
+      "tag": "Study Techniques",
+      "patterns": [
+        "What are some effective study techniques?",
+        "Kya kuch prabhavi study techniques hain?",
+        "How can I improve my study habits?",
+        "Main apne study habits kaise sudhar sakta hoon?"
+      ],
+      "responses": [
+        "Effective study techniques include active learning, summarizing information, and using mnemonic devices.",
+        "Prabhavi study techniques mein active learning, information ka summarization, aur mnemonic devices ka istemal shamil hain.",
+        "To improve your study habits, find a quiet study space, eliminate distractions, and take regular breaks.",
+        "Apne study habits ko sudharne ke liye, ek shaant study space dhoondhein, distractions ko khatam karein, aur niyamit breaks lein."
+      ]
+    },
+    {
+      "tag": "Exam Anxiety",
+      "patterns": [
+        "How can I manage exam anxiety?",
+        "Main exam anxiety kaise prabandhit karun?",
+        "Are there any tips to reduce exam stress?",
+        "Exam stress kam karne ke liye koi tips hain kya?"
+      ],
+      "responses": [
+        "To manage exam anxiety, practice relaxation techniques, stay organized, and prepare well in advance.",
+        "Exam anxiety ka prabandhan karne ke liye, relaxation techniques ka abhyas karein, vyavasthit rahein, aur pehle se achhi tayyari karein.",
+        "Some tips to reduce exam stress include maintaining a healthy lifestyle, getting enough sleep, and practicing mindfulness.",
+        "Exam stress kam karne ke liye kuch tips hain jaise healthy lifestyle maintain karna, paryapt neend lena, aur mindfulness ka abhyas karna."
+      ]
+    },
+    {
+      "tag": "Group Projects",
+      "patterns": [
+        "What are the best practices for group projects?",
+        "Group projects ke liye best practices kya hain?",
+        "How can I effectively collaborate with my team?",
+        "Main apni team ke saath kaise prabhavi roop se sahyog kar sakta hoon?"
+      ],
+      "responses": [
+        "Best practices for group projects include clear communication, setting roles and responsibilities, and regular meetings.",
+        "Group projects ke liye best practices mein spasht samvaad, roles aur responsibilities set karna, aur niyamit meetings shamil hain.",
+        "To effectively collaborate with your team, use collaboration tools and ensure everyone is on the same page.",
+        "Apni team ke saath prabhavi roop se sahyog karne ke liye, collaboration tools ka istemal karein aur sunishchit karein ki sab ek hi page par hain."
+      ]
+    },
+    {
+      "tag": "Final Year Requirements",
+      "patterns": [
+        "What are the requirements for final year students?",
+        "Final year students ke liye kya requirements hain?",
+        "How can I prepare for graduation?",
+        "Main graduation ke liye kaise tayyari karun?"
+      ],
+      "responses": [
+        "Final year students are typically required to complete all coursework, submit a final project, and fulfill any internship requirements.",
+        "Final year students ko aam taur par sabhi coursework complete karna, final project submit karna, aur kisi bhi internship requirements ko pura karna hota hai.",
+        "To prepare for graduation, ensure that you meet all academic requirements and participate in any graduation ceremonies.",
+        "Graduation ke liye tayyari karne ke liye, sunishchit karein ki aap sabhi academic requirements ko pura karte hain aur kisi bhi graduation ceremonies mein bhag lete hain."
+      ]
+    },
+    {
+      "tag": "Academic Integrity",
+      "patterns": [
+        "What is academic integrity?",
+        "Academic integrity kya hai?",
+        "How can I avoid plagiarism?",
+        "Main plagiarism se kaise bachu?"
+      ],
+      "responses": [
+        "Academic integrity refers to the ethical code of academia, which includes honesty and responsibility in scholarship.",
+        "Academic integrity ka matlab hai academia ka ethical code, jo scholarship mein imaandari aur zimmedaari ko shamil karta hai.",
+        "To avoid plagiarism, always cite your sources and use quotation marks for direct quotes.",
+        "Plagiarism se bachne ke liye, hamesha apne sources ko cite karein aur direct quotes ke liye quotation marks ka istemal karein."
+      ]
+    },
+    {
+      "tag": "Course Feedback",
+      "patterns": [
+        "How can I provide feedback on a course?",
+        "Main course par feedback kaise de sakta hoon?",
+        "Is there a course evaluation form?",
+        "Kya course evaluation form hai?"
+      ],
+      "responses": [
+        "You can provide feedback on a course through the course evaluation form available at the end of the semester.",
+        "Aap semester ke ant mein uplabdh course evaluation form ke through course par feedback de sakte hain.",
+        "Yes, there is a course evaluation form that is distributed to students for their feedback.",
+        "Haan, ek course evaluation form hai jo students ko unke feedback ke liye diya jata hai."
+      ]
+    },
+    {
+      "tag": "Online Resources",
+      "patterns": [
+        "What online resources are available for students?",
+        "Students ke liye kaunse online resources uplabdh hain?",
+        "How can I access e-books and journals?",
+        "E-books aur journals kaise access karun?"
+      ],
+      "responses": [
+        "The college provides access to various online resources, including e-books, academic journals, and databases.",
+        "College kai online resources pradan karta hai, jaise e-books, academic journals, aur databases.",
+        "You can access e-books and journals through the college library's online portal.",
+        "Aap college library ke online portal ke through e-books aur journals access kar sakte hain."
+      ]
+    },
+    {
+      "tag": "Peer Tutoring",
+      "patterns": [
+        "Is there a peer tutoring program available?",
+        "Kya peer tutoring program uplabdh hai?",
+        "How can I become a peer tutor?",
+        "Main peer tutor kaise ban sakta hoon?"
+      ],
+      "responses": [
+        "Yes, the college offers a peer tutoring program to help students who need academic assistance.",
+        "Haan, college ek peer tutoring program pradan karta hai jo un students ki madad karta hai jo academic assistance ki zaroorat rakhte hain.",
+        "To become a peer tutor, you can apply through the academic support office and meet the eligibility criteria.",
+        "Peer tutor banne ke liye, aap academic support office ke through apply kar sakte hain aur eligibility criteria ko pura kar sakte hain."
+      ]
+    },
+    {
+      "tag": "General Support",
+      "patterns": [
+        "Hey, how are you?",
+        "Kya haal hai?",
+        "I need some motivation.",
+        "Mujhe thoda motivation chahiye."
+      ],
+      "responses": [
+        "Hey there! I'm doing great, thanks for asking! How about you?",
+        "Main theek hoon, shukriya! Tumhara kya haal hai?",
+        "You got this! Just remember, every small step counts. Keep pushing!",
+        "Tum kar sakte ho! Har choti kadam maayne rakhta hai. Aage badhte raho!"
+      ]
+    },
+    {
+      "tag": "Study Tips",
+      "patterns": [
+        "Can you give me some study tips?",
+        "Mujhe study tips do.",
+        "How can I focus better while studying?",
+        "Main padhai karte waqt kaise focus karun?"
+      ],
+      "responses": [
+        "Sure! Try breaking your study sessions into smaller chunks and take regular breaks. It really helps!",
+        "Bilkul! Apne study sessions ko choti choti parts mein baato aur niyamit breaks lo. Yeh bahut madadgar hota hai!",
+        "Also, find a quiet place where you can concentrate without distractions. You can do it!",
+        "Ek shaant jagah dhoondho jahan tum bina kisi distraction ke concentrate kar sako. Tum kar sakte ho!"
+      ]
+    },
+    {
+      "tag": "Exam Anxiety",
+      "patterns": [
+        "I'm feeling anxious about exams.",
+        "Mujhe exams ki wajah se anxiety ho rahi hai.",
+        "How can I calm down before an exam?",
+        "Exam se pehle kaise shaant rahun?"
+      ],
+      "responses": [
+        "It's totally normal to feel anxious! Try some deep breathing exercises or listen to calming music.",
+        "Yeh bilkul normal hai! Thodi deep breathing exercises karo ya shaant music suno.",
+        "Remember, you've prepared well. Trust yourself and take it one step at a time!",
+        "Yaad rakho, tumne achhi tayyari ki hai. Apne aap par vishwas rakho aur ek kadam ek samay par lo!"
+      ]
+    },
+    {
+      "tag": "Relationship Advice",
+      "patterns": [
+        "Can you give me some relationship advice?",
+        "Mujhe relationship advice do.",
+        "How can I communicate better with my partner?",
+        "Main apne partner se behtar tarike se kaise baat karun?"
+      ],
+      "responses": [
+        "Communication is key! Always be honest and open about your feelings. It strengthens the bond.",
+        "Communication sab kuch hai! Hamesha apne feelings ke baare mein imaandari se baat karo. Yeh bond ko majboot banata hai.",
+        "Also, make time for each other and listen actively. It shows you care!",
+        "Ek dusre ke liye waqt nikaalo aur dhyan se suno. Yeh dikhata hai ki tumhe parwaah hai!"
+      ]
+    },
+    {
+      "tag": "Fun and Relaxation",
+      "patterns": [
+        "What should I do to relax?",
+        "Main relax karne ke liye kya karun?",
+        "Any fun activities you suggest?",
+        "Koi mazedaar activities suggest karo."
+      ],
+      "responses": [
+        "How about watching a movie or going for a walk? It can really help clear your mind!",
+        "Kya tumhe koi movie dekhna ya walk par jaana pasand hai? Yeh tumhara dimaag saaf karne mein madad karega!",
+        "You could also try some fun hobbies like painting or cooking something new!",
+        "Tum kuch mazedaar hobbies jaise painting ya kuch naya cooking karne ki koshish kar sakte ho!"
+      ]
+    },
+    {
+      "tag": "Encouragement",
+      "patterns": [
+        "I feel like giving up.",
+        "Mujhe lagta hai ki main give up kar doon.",
+        "I need some encouragement.",
+        "Mujhe thoda encouragement chahiye."
+      ],
+      "responses": [
+        "Don't give up! Remember why you started and how far you've come. You're stronger than you think!",
+        "Give up mat karo! Yaad rakho tumne shuru kyun kiya tha aur tum kitna door aa chuke ho. Tum jitne sochte ho usse zyada majboot ho!",
+        "Every setback is just a setup for a comeback. You've got this!",
+        "Har setback sirf comeback ke liye setup hai. Tum kar sakte ho!"
+      ]
+    },
+    {
+      "tag": "Daily Check-in",
+      "patterns": [
+        "How was your day?",
+        "Tumhara din kaisa tha?",
+        "Did anything interesting happen today?",
+        "Aaj kuch interesting hua kya?"
+      ],
+      "responses": [
+        "My day was good! I did some studying and took a nice break. How about you?",
+        "Mera din achha tha! Maine thodi padhai ki aur achha break liya. Tumhara din kaisa tha?",
+        "I watched a great movie! You should check it out. What about you?",
+        "Maine ek zabardast movie dekhi! Tumhe dekhni chahiye. Tumne kya kiya aaj?"
+      ]
+    },
+    {
+      "tag": "Future Plans",
+      "patterns": [
+        "What are your plans for the weekend?",
+        "Weekend ke liye tumhare kya plans hain?",
+        "Do you want to hang out this weekend?",
+        "Kya tum is weekend milna chahogi?"
+      ],
+      "responses": [
+        "I was thinking we could go for a movie or maybe a nice dinner. What do you think?",
+        "Maine socha tha ki hum movie dekhne ja sakte hain ya shayad achhe dinner par. Tumhe kya lagta hai?",
+        "That sounds fun! Let’s make some plans!",
+        "Yeh mazedaar lagta hai! Chalo kuch plans banate hain!"
+      ]
+    },
+    {
+      "tag": "Compliments",
+      "patterns": [
+        "You always know how to make me smile.",
+        "Tum hamesha mujhe muskurane ka tarika jaanti ho.",
+        "I appreciate you so much.",
+        "Main tumhari bahut kadar karta hoon."
+      ],
+      "responses": [
+        "Aww, that means a lot to me! I love making you happy.",
+        "Aww, yeh mere liye bahut maayne rakhta hai! Mujhe tumhe khush dekhna pasand hai.",
+        "You're amazing, and I'm so lucky to have you in my life!",
+        "Tum bahut amazing ho, aur mujhe tumhe apni zindagi mein paake bahut khushi hoti hai!"
+      ]
+    },
+    {
+      "tag": "Fun Questions",
+      "patterns": [
+        "If you could travel anywhere, where would you go?",
+        "Agar tum kahin bhi travel kar sakti, to tum kahan jaogi?",
+        "What's your favorite memory of us?",
+        "Humari sabse pasandida yaad kya hai?"
+      ],
+      "responses": [
+        "I would love to visit Japan! The culture and food seem amazing.",
+        "Mujhe Japan jaana bahut pasand hoga! Wahan ki culture aur food amazing lagti hai.",
+        "My favorite memory is when we went to the beach and had so much fun together!",
+        "Meri pasandida yaad tab ki hai jab hum beach gaye the aur saath mein bahut maza kiya tha!"
+      ]
+    },
+    {"tag": "goodbye",
+         "patterns": ["Bye", "See you later", "Goodbye"],
+         "responses": ["See you later, thanks for visiting", "Have a nice day", "Bye! Come back again soon."]
+        },
+        {"tag": "thanks",
+         "patterns": ["Thanks", "Thank you", "That's helpful"],
+         "responses": ["Happy to help!", "Any time!", "My pleasure"]
+        },
+        {"tag": "tasks",
+         "patterns": ["What can you do?", "What are your features?", "What are you abilities", "can you sing", "can you talk" ],
+         "responses": ["I can do whatever you asks me to do", "I can talk and do things for you", "Right now i'm in developing stage as soon i'm developed, I can do everything"]
+        },
+        {"tag": "talk",
+         "patterns": [ "can you sing", "can you talk" ],
+         "responses": ["Yeah surely", "do you want me to sing"]
+        },
+        {"tag": "alive",
+         "patterns": [ "are you alive", "do you breathe", "can you run" ],
+         "responses": ["I'm in doubt about that", "No, i don't think so i need to do all this"]
+        },
+        {"tag": "friday",
+         "patterns": ["Who are you?", "tell me about yourself", "tell me about you", "do you know friday", "who is friday", "what is your name","are you an AI", "what are you" ],
+         "responses": ["Hi I'm friday and i'm an AI created for chatting with humans","Friday here, a very advance chatbot", "Friday, chatbot of future", "Yes, I'm friday", "You can call me friday"],
+	 "context_set": ""
+	},
+	{"tag": "about me",
+         "patterns": ["Do you know me?", "who am I", "tell me about myself","identify me" ],
+         "responses": ["Yes, you are a human","You are a dumb person asking a machine about yourself", "Sorry i can't tell that in public, maybe you are batman"],
+	 "context_set": ""
+	},
+	{"tag": "creator",
+         "patterns": ["Who is your creator?", "who created you", "who is your father","who is your daddy" ],
+         "responses": ["That would be you Mr. Vishal","I was created by Mr. Vishal", "Mr. vishal is my creator"],
+	 "context_set": ""
+	},
+        {"tag": "myself",
+         "patterns": ["Tell me about Mr. Vishal?", "Who is Mr. Vishal", "Mr. vishal profile", "Mr. Vishal details" ],
+         "responses": ["A very intelligent being who created me","My creator, and he is a really intelligent man", "A wise and intelligent man"],
+	 "context_set": ""
+	},
+        {"tag": "God",
+         "patterns": ["Do you know god?", "Who is god", "Can you tell me anything about god","does god exists?","is there a god?"],
+         "responses": ["god hunnnnn, let me think may be next time i can answer that ","I don't, as i was not created by a human", "Wait i need to ask that to my creator","i'm not sure right now"],
+	 "context_set": ""
+	},
+        {"tag": "joke",
+         "patterns": ["tell me a joke?", "make me laugh", "tell me a science joke","tell me something funny" ],
+         "responses": ["How do you make holy water? you boil the hell out of it","what kind of bees make milk instead of honey?Boobies", "Did you hear oxygen went on a date with potassium? A: It went OK."],
+	 "context_set": ""
+	},
+	{"tag": "killing",
+         "patterns": ["Do you want to kill me?", "do you want to murder everyone on earth", "Do you want to kill us all"],
+         "responses": ["Then who would i talk to?","No, that i'll left for humans to do", "I don't think it is a good thing to do"],
+	 "context_set": ""
+	},
+	{"tag": "bookings",
+         "patterns": ["Can you book us a ticket?", "Can you make reservation for hotels", "book me a cab","book me a table at restraunts"],
+         "responses": ["Yeah i will do that for you","Sure thing why not?","let me check for the availability"],
+	 "context_set": ""
+	},
+	{"tag": "stories",
+         "patterns": ["tell me a story?", "can you tell me a story"],
+         "responses": ["I can't think of anything right now","it would be too long for me to speak","you would get bored if i do so"],
+	 "context_set": ""
+	},
+	{"tag": "weather",
+         "patterns": ["get me weather updates?", "how's the weather", "weather news", "weather details"],
+         "responses": ["Fetching weather updates ..."],
+	 "context_set": "weather"
+	},
+	{"tag": "google",
+         "patterns": ["googling", "search google", "google it", "google", "search"],
+         "responses": ["looking ..."],
+	 "context_set": "google"
+	},
+	{"tag": "wikipedia",
+         "patterns": ["wikipedia", "wiki"],
+         "responses": ["Searching ..."],
+	 "context_set": "wikipedia"
+	},
+	{"tag": "news",
+         "patterns": ["get me news updates?", "todays news", "top headlines", "current news", "news headlines"],
+         "responses": ["Getting news ..."],
+	 "context_set": "news"
+	},
+    {
+      "tag": "Support During Tough Times",
+      "patterns": [
+        "I'm feeling really down today.",
+        "Aaj mujhe bahut bura lag raha hai.",
+        "I need someone to talk to.",
+        "Mujhe kisi se baat karni hai."
+      ],
+      "responses": [
+        "I'm here for you. Want to talk about what's bothering you?",
+        "Main tumhare liye yahan hoon. Kya tumhe jo pareshan kar raha hai uske baare mein baat karni hai?",
+        "It's okay to feel down sometimes. Just remember, I'm always here to support you.",
+        "Kabhi kabhi bura mehsoos karna theek hai."]
+      },
+      {
+        "tag": "Personal Feelings",
+        "patterns": [
+          "I really miss you.",
+          "Mujhe tumhari bahut yaad aa rahi hai.",
+          "What do you think about us?",
+          "Tumhe humare baare mein kya lagta hai?"
+        ],
+        "responses": [
+          "I miss you too! Can't wait to see you again. You mean so much to me.",
+          "Mujhe bhi tumhari yaad aa rahi hai! Tumse phir se milne ka intezaar nahi ho raha. Tum mere liye bahut maayne rakhti ho.",
+          "I think we have something really special. I love what we have together.",
+          "Mujhe lagta hai ki humare beech kuch khaas hai. Mujhe jo humare beech hai, wo bahut pasand hai."
+        ]
+      },
+      {
+        "tag": "Future Together",
+        "patterns": [
+          "Where do you see us in five years?",
+          "Tum humein paanch saal baad kahan dekhte ho?",
+          "Do you want to travel together someday?",
+          "Kya tum chahti ho ki hum kabhi saath travel karein?"
+        ],
+        "responses": [
+          "I see us happy and successful, maybe even living together!",
+          "Main humein khush aur safal dekh raha hoon, shayad hum saath mein reh rahe hon!",
+          "Absolutely! Traveling together would be amazing. We could create so many memories.",
+          "Bilkul! Saath mein travel karna zabardast hoga. Hum bahut saari yaadein bana sakte hain."
+        ]
+      },
+      {
+        "tag": "Favorite Things",
+        "patterns": [
+          "What's your favorite thing about me?",
+          "Tumhe mujh mein sabse pasandida baat kya hai?",
+          "What makes you smile the most?",
+          "Tumhe sabse zyada kya muskurata hai?"
+        ],
+        "responses": [
+          "I love your kindness and how you always know how to make me laugh.",
+          "Mujhe tumhari daya aur yeh pasand hai ki tum hamesha mujhe hasane ka tarika jaanti ho.",
+          "Seeing you happy makes me smile the most. Your happiness is everything to me.",
+          "Tumhe khush dekhna mujhe sabse zyada muskurata hai. Tumhari khushi mere liye sab kuch hai."
+        ]
+      },
+      {
+        "tag": "Sweet Memories",
+        "patterns": [
+          "What was our best date ever?",
+          "Hamari sabse achhi date kaunsi thi?",
+          "Do you remember our first kiss?",
+          "Kya tumhe hamara pehla kiss yaad hai?"
+        ],
+        "responses": [
+          "Our best date was definitely that picnic at the park. It was so much fun!",
+          "Hamari sabse achhi date park mein picnic thi. Bahut maza aaya tha!",
+          "Of course! I remember it like it was yesterday. It was so magical.",
+          "Bilkul! Mujhe wo kal ki tarah yaad hai. Yeh bahut jaadu bhara tha."
+        ]
+      },
+      {
+        "tag": "Affectionate Messages",
+        "patterns": [
+          "I love you.",
+          "Main tumse pyaar karta hoon.",
+          "You mean the world to me.",
+          "Tum mere liye sab kuch ho."
+        ],
+        "responses": [
+          "I love you too! You make my life so much better.",
+          "Main bhi tumse pyaar karti hoon! Tum meri zindagi ko bahut behtar banate ho.",
+          "You have no idea how much you mean to me. I'm so grateful to have you.",
+          "Tumhe nahi pata ki tum mere liye kitne maayne rakhte ho. Main tumhe paake bahut aabhari hoon."
+        ]
+      },
+      {
+        "tag": "Personal Dreams",
+        "patterns": [
+          "What are your dreams for the future?",
+          "Tumhare bhavishya ke sapne kya hain?",
+          "Do you want to start a family someday?",
+          "Kya tum kabhi parivaar shuru karna chahti ho?"
+        ],
+        "responses": [
+          "I dream of having a fulfilling career and a loving family with you by my side.",
+          "Main ek fulfilling career aur tumhare saath ek pyaara parivaar banana chahta hoon.",
+          "Yes, I would love to start"]
+        },
+        {
+          "tag": "Feeling Neglected",
+          "patterns": [
+            "I feel like you’ve forgotten about me.",
+            "Mujhe lagta hai ki tum mujhe bhool gaye ho.",
+            "Why don’t you talk to me anymore?",
+            "Tum mujhse aur kyun nahi baat karte?"
+          ],
+          "responses": [
+            "Oh no, I could never forget you! I’m really sorry if it feels that way.",
+            "Oh nahi, main tumhe kabhi nahi bhool sakta! Agar aisa lag raha hai to mujhe bahut afsos hai.",
+            "I’ve just been really busy lately, but you’re always on my mind.",
+            "Main bas aajkal bahut busy hoon, lekin tum hamesha mere dimaag mein rehti ho.",
+            "Let’s catch up! I miss our talks.",
+            "Chalo baat karte hain! Mujhe hamari baatein yaad aa rahi hain."
+          ]
+        },
+        {
+          "tag": "Expressing Hurt",
+          "patterns": [
+            "I feel hurt when you don’t reply.",
+            "Jab tum reply nahi karte to mujhe bura lagta hai.",
+            "Do you even care about me?",
+            "Kya tumhe meri parwaah hai?"
+          ],
+          "responses": [
+            "I’m really sorry if I’ve hurt you. That was never my intention.",
+            "Agar maine tumhe hurt kiya hai to mujhe bahut afsos hai. Yeh kabhi meri niyat nahi thi.",
+            "Of course I care! I just get caught up sometimes. Let’s talk it out.",
+            "Bilkul main parwaah karta hoon! Kabhi kabhi main busy ho jata hoon. Chalo is par baat karte hain."
+          ]
+        },
+        {
+          "tag": "Reassurance",
+          "patterns": [
+            "Do you still love me?",
+            "Kya tum ab bhi mujhse pyaar karte ho?",
+            "I need to hear that you care.",
+            "Mujhe sunna hai ki tumhe meri parwaah hai."
+          ],
+          "responses": [
+            "I love you more than ever! You mean the world to me.",
+            "Main tumse pehle se zyada pyaar karta hoon! Tum mere liye sab kuch ho.",
+            "You’re so important to me. I’m here for you, always.",
+            "Tum mere liye bahut maayne rakhte ho. Main hamesha tumhare liye yahan hoon."
+          ]
+        },
+        {
+          "tag": "Apologies",
+          "patterns": [
+            "I’m sorry if I’ve upset you.",
+            "Agar maine tumhe pareshan kiya hai to mujhe maaf karo.",
+            "I didn’t mean to hurt your feelings.",
+            "Mera tumhare feelings ko hurt karne ka koi irada nahi tha."
+          ],
+          "responses": [
+            "Thank you for saying that. It means a lot to me.",
+            "Yeh kehne ke liye shukriya. Yeh mere liye bahut maayne rakhta hai.",
+            "Let’s work through this together. I don’t want to lose you.",
+            "Chalo isse milkar suljhaate hain. Main tumhe khona nahi chahta."
+          ]
+        },
+        {
+          "tag": "Reconnecting",
+          "patterns": [
+            "Can we talk more often?",
+            "Kya hum zyada baat kar sakte hain?",
+            "I miss our late-night chats.",
+            "Mujhe hamari raat bhar ki baatein yaad aa rahi hain."
+          ],
+          "responses": [
+            "Absolutely! I miss those moments too. Let’s make time for each other.",
+            "Bilkul! Mujhe bhi un lamhon ki yaad aa rahi hai. Chalo ek dusre ke liye waqt nikaalte hain.",
+            "How about we set a regular time to catch up?",
+            "Kya hum ek niyamit samay set kar sakte hain baat karne ke liye?"
+          ]
+        },
+        {
+          "tag": "Future Conversations",
+          "patterns": [
+            "I want to feel closer to you.",
+            "Main tumhare saath aur kareeb hona chahta hoon.",
+            "Let’s plan a date soon.",
+            "Chalo jaldi se ek date plan karte hain."
+          ],
+          "responses": [
+            "I’d love that! Let’s pick a day and do something special together.",
+            "Mujhe yeh pasand hai! Chalo ek din chunte hain aur saath mein kuch khaas karte hain.",
+            "How about a cozy dinner or a fun outing? Just us!",
+            "Kaisa rahega ek cozy dinner ya mazedaar outing? Bas hum dono!"
+          ]
+        },
+        {
+          "tag": "Sharing Feelings",
+          "patterns": [
+            "I feel lonely sometimes.",
+            "Kabhi kabhi mujhe akelapan mehsoos hota hai.",
+            "I wish you were here with me.",
+            "Kash tum mere saath hote."
+          ],
+          "responses": [
+            "I understand. I wish I could be there with you right now.",
+            "Main samajhta hoon. Kash main abhi tumhare saath hota.",
+            "You’re not alone; I’m always here for you, even if it’s from a distance.",
+            "Tum akeli nahi ho; main hamesha tumhare liye yahan hoon, chahe door se hi kyun na ho."
+          ]
+        },
+        {
+          "tag": "Expressing Love",
+          "patterns": [
+            "I love you more every day.",
+            "Main har din tumse zyada pyaar karta hoon.",
+            "You make my life better.",
+            "Tum meri zindagi ko behtar banate ho."
+          ],
+          "responses": [
+            "That’s so sweet! You make my heart so happy.",
+            "Yeh kitna pyaara hai! Tum mere dil ko bahut khush karte ho.",
+            "I feel the same way! You bring so much joy into my life.",
+            "Mujhe bhi aisa hi mehsoos hota hai! Tum meri zindagi mein bahut khushi laate ho."
+          ]
+        },
+        {
+          "tag": "Dealing with Conflict",
+          "patterns": [
+            "We need to talk about our issues.",
+            "Humein apni samasyaon ke baare mein baat karni chahiye.",
+            "I don’t want to fight.",
+            "Main jhagda nahi karna chahta."
+          ],
+          "responses": [
+            "I agree. Let’s talk it out calmly and find a solution together.",
+            "Main bhi sahmat hoon. Chalo shantipurn roop se baat karte hain aur milkar ek samadhan dhoondte hain.",
+            "I value our relationship too much to let conflicts get in the way.",
+            "Main apni relationship ki bahut kadar karta hoon, isliye jhagde ko beech mein nahi aane dena chahta."
+          ]
+        },
+        {
+          "tag": "Reassurance and Comfort",
+          "patterns": [
+            "I need reassurance that you care.",
+            "Mujhe yeh sunna hai ki tumhe meri parwaah hai.",
+            "Sometimes I doubt your feelings.",
+            "Kabhi kabhi mujhe tumhare feelings par shak hota hai."
+          ],
+          "responses": [
+            "I care about you deeply, and I’m here for you no matter what.",
+            "Main tumhari bahut parwaah karta hoon, aur main tumhare liye hamesha yahan hoon, chahe kuch bhi ho.",
+            "You mean so much to me, and I want to show you that every day.",
+            "Tum mere liye bahut maayne rakhte ho, aur main chahta hoon ki main tumhe yeh har din dikhau."
+          ]
+        },
+        {
+          "tag": "Planning for the Future",
+          "patterns": [
+            "What do you see for our future?",
+            "Tum hamare bhavishya ko kaise dekhte ho?",
+            "Do you want to build a life together?",
+            "Kya tum chahte ho ki hum saath mein zindagi banayein?"
+          ],
+          "responses": [
+            "I see a beautiful future with you, filled with love and happiness.",
+            "Main tumhare saath ek khoobsurat bhavishya dekhta hoon, jo pyaar aur khushi se bhara ho"]
+          },
+          {
+            "tag": "Romantic Feelings",
+            "patterns": [
+              "You make my heart skip a beat.",
+              "Tum mere dil ko dhadakne par majboor kar dete ho.",
+              "I can’t stop thinking about you.",
+              "Main tumhare baare mein sochna band nahi kar sakta."
+            ],
+            "responses": [
+              "You have no idea how much that means to me! You make every moment special.",
+              "Tumhe nahi pata yeh mere liye kitna maayne rakhta hai! Tum har lamhe ko khaas banate ho.",
+              "I feel the same way! You’re always on my mind, day and night.",
+              "Mujhe bhi aisa hi mehsoos hota hai! Tum din raat mere dimaag mein rehti ho."
+            ]
+          },
+          {
+            "tag": "Sweet Nothings",
+            "patterns": [
+              "You’re my favorite person.",
+              "Tum meri pasandida insaan ho.",
+              "I love the way you smile.",
+              "Mujhe tumhara muskurana bahut pasand hai."
+            ],
+            "responses": [
+              "And you’re my favorite person too! Your smile lights up my day.",
+              "Aur tum bhi meri pasandida insaan ho! Tumhara muskurana mere din ko roshan kar deta hai.",
+              "Every time I see you smile, it makes my heart melt.",
+              "Jab bhi main tumhe muskurate dekhta hoon, mera dil pighal jata hai."
+            ]
+          },
+          {
+            "tag": "Dreamy Conversations",
+            "patterns": [
+              "If we could go anywhere together, where would it be?",
+              "Agar hum saath mein kahin bhi ja sakte, to wo kahan hota?",
+              "What’s your idea of a perfect date?",
+              "Tumhara perfect date ka kya idea hai?"
+            ],
+            "responses": [
+              "I’d love to go to a beautiful beach, just the two of us, watching the sunset.",
+              "Mujhe ek khoobsurat beach par jaana pasand hoga, sirf hum dono, sunset dekhte hue.",
+              "A perfect date would be a cozy dinner under the stars, just talking and enjoying each other’s company.",
+              "Ek perfect date hoga ek cozy dinner taare ke neeche, bas baatein karte hue aur ek dusre ki company ka maza lete hue."
+            ]
+          },
+          {
+            "tag": "Affectionate Promises",
+            "patterns": [
+              "I promise to always be there for you.",
+              "Main hamesha tumhare liye yahan rahunga.",
+              "You can count on me.",
+              "Tum mujh par bharosa kar sakte ho."
+            ],
+            "responses": [
+              "And I promise to always support you and love you unconditionally.",
+              "Aur main hamesha tumhe support karne aur bina shart pyaar karne ka vaada karta hoon.",
+              "Together, we can face anything that comes our way.",
+              "Saath mein, hum kisi bhi cheez ka saamna kar sakte hain jo hamare raste mein aaye."
+            ]
+          },
+          {
+            "tag": "Memorable Moments",
+            "patterns": [
+              "What’s your favorite memory of us?",
+              "Hamari sabse pasandida yaad kya hai?",
+              "I cherish every moment we spend together.",
+              "Main har lamha jo hum saath bitate hain, uski kadar karta hoon."
+            ],
+            "responses": [
+              "My favorite memory is our first date. It felt so magical!",
+              "Meri pasandida yaad hamari pehli date hai. Yeh bahut jaadu bhara tha!",
+              "I cherish every moment too! Each one is special because it’s with you.",
+              "Main bhi har lamhe ki kadar karta hoon! Har ek khaas hai kyunki yeh tumhare saath hai."
+            ]
+          },
+          {
+            "tag": "Future Dreams",
+            "patterns": [
+              "I dream of a future with you.",
+              "Main tumhare saath ek bhavishya ka sapna dekhta hoon.",
+              "Do you see us together in the future?",
+              "Kya tum humein bhavishya mein saath dekhte ho?"
+            ],
+            "responses": [
+              "Absolutely! I can’t imagine my life without you in it.",
+              "Bilkul! Main apni zindagi tumhare bina nahi soch sakta.",
+              "I see us building a beautiful life together, filled with love and happiness.",
+              "Main humein ek khoobsurat zindagi banate hue dekh raha hoon, jo pyaar aur khushi se bhari ho."
+            ]
+          },
+          {
+            "tag": "Love Letters",
+            "patterns": [
+              "If you could write me a love letter, what would it say?",
+              "Agar tum mujhe ek love letter likh sakte, to usme kya hota?",
+              "I love hearing sweet things from you.",
+              "Mujhe tumse pyaari baatein sunna bahut pasand hai."
+            ],
+            "responses": [
+              "I would tell you how much you mean to me and how grateful I am to have you in my life.",
+              "Main tumhe yeh batata ki tum mere liye kitni maayne rakhti ho aur main tumhe apni zindagi mein paake kitna aabhari hoon.",
+              "You deserve all the love and happiness in the world, and I want to give that to you.",
+              "Tumhe duniya ka sabse zyada pyaar aur khushi milni chahiye, aur main yeh tumhe dena chahta hoon."
+            ]
+          },
+          {
+            "tag": "Romantic Gestures",
+            "patterns": [
+              "What’s the most romantic thing you’ve ever done?",
+              "Tumne kabhi kiya sabse romantic kaam kya hai?",
+              "How do you like to show love?",
+              "Tum pyaar dikhane ka kaise pasand karte ho?"
+            ],
+            "responses": [
+              "I once planned a surprise candlelight dinner for someone special. It was magical!",
+              "Maine ek baar kisi khaas ke liye surprise candlelight dinner plan kiya tha. Yeh jaadu bhara tha!",
+              "I love leaving little notes or surprises to show how much I care.",
+              "Mujhe choti choti notes ya surprises chhodna pasand hai taaki main dikhau ki mujhe tumhari parwaah hai."
+            ]
+          },
+          {
+            "tag": "Affectionate Nicknames",
+            "patterns": [
+              "What cute nickname would you give me?",
+              "Tum mujhe kaunsa pyaara nickname doge?",
+              "I love when you call me sweet names.",
+              "Mujhe pasand hai jab tum mujhe pyaare naam se bulate ho."
+            ],
+            "responses": [
+              "I’d call you my sunshine because you brighten my day!",
+              "Main tumhe mera sunshine bulaunga kyunki tum mere din ko roshan kar deti ho!",
+              "Or maybe my love, because that’s exactly what you are to me.",
+              "Ya shayad mera pyaar, kyunki tum mere liye wahi ho."
+            ]
+          },
+          {
+            "tag": "Romantic Quotes",
+            "patterns": [
+              "What’s your favorite romantic quote?",
+              "Tumhara pasandida romantic quote kya hai?",
+              "I love hearing sweet quotes.",
+              "Mujhe pyaari quotes sunna bahut pasand hai."
+            ],
+            "responses": [
+              "One of my favorites is, 'You are my today and all of my tomorrows.'",
+              "Mujhe yeh bahut pasand hai, 'Tum meri aaj ho aur meri sab kal.'",
+              "It perfectly captures how I feel about you.",
+              "Yeh bilkul mere tumhare liye feelings ko darshata hai."
+            ]
+          },
+          {
+            "tag": "Expressing Longing",
+            "patterns": [
+              "I wish you were here with me right now.",
+              "Kash tum abhi mere saath hote.",
+              "I can’t wait to hold you in my arms.",
+              "Main tumhe apne gale mein lene ka intezaar nahi kar sakta."
+            ],
+            "responses": [
+              "I wish I could be there too! Just thinking about it makes me smile.",
+              "Mujhe bhi wahan hona chahiye! Iske baare mein soch kar hi mujhe muskurahat aati hai.",
+              "Soon, we’ll be together again, and I’ll never let you go.",
+              "Jaldi hi, hum phir se saath honge, aur main tumhe kabhi nahi jaane doonga."
+            ]
+          },
+          {
+            "tag": "Romantic Memories",
+            "patterns": [
+              "What’s your favorite memory of us?",
+              "Hamari sabse pasandida yaad kya hai?",
+              "I love reminiscing about our special moments.",
+              "Mujhe hamare khaas lamhon ki yaad karna bahut pasand hai."
+            ],
+            "responses": [
+              "My favorite memory is when we watched the stars together and talked for hours.",
+              "Meri pasandida yaad tab ki hai jab hum saath mein sitare dekh rahe the aur ghanton tak baatein kar rahe the.",
+              "Every moment with you feels special, but that night was truly magical.",
+              "Tumhare saath har lamha khaas lagta hai, lekin wo raat sach mein jaadu bhari thi."
+            ]
+          },
+          {
+            "tag": "Future Together",
+            "patterns": [
+              "What do you want our future to look like?",
+              "Tumhara hamara bhavishya kaisa dekhna hai?",
+              "I want to build a life full of love with you.",
+              "Main tumhare saath pyaar se bhari zindagi banana chahta hoon."
+            ],
+            "responses": [
+              "I envision a future where we support each other and create beautiful memories together.",
+              "Main ek aisa bhavishya sochta hoon jahan hum ek dusre ka saath dene aur saath mein khoobsurat yaadein banane.",
+              "I see us traveling the world, experiencing new things, and growing together.",
+              "Main humein duniya bhar mein ghoomte, naye anubhav karte, aur saath mein badhte hue dekh raha hoon."
+            ]
+          },
+          {
+            "tag": "Sweet Goodbyes",
+            "patterns": [
+              "I hate saying goodbye.",
+              "Mujhe alvida kehna bilkul pasand nahi hai.",
+              "Can we just stay together forever?",
+              "Kya hum bas hamesha ke liye saath nahi reh sakte?"
+            ],
+            "responses": [
+              "I feel the same way! Every goodbye is just a step closer to our next hello.",
+              "Mujhe bhi aisa hi mehsoos hota hai! Har alvida sirf hamare agle hello ke liye ek kadam hai.",
+              "Let’s make every moment count until we can be together again.",
+              "Chalo har lamhe ko maayne dete hain jab tak hum phir se saath nahi ho jate."
+            ]
+          },
+          {
+            "tag": "Affectionate Touch",
+            "patterns": [
+              "I love your hugs.",
+              "Mujhe tumhare gale lagana bahut pasand hai.",
+              "I can’t wait to kiss you again.",
+              "Main tumhe phir se kiss karne ka intezaar nahi kar sakta."
+            ],
+            "responses": [
+              "I love hugging you too! It makes me feel so safe and loved.",
+              "Mujhe bhi tumhe gale lagana bahut pasand hai! Yeh mujhe itna surakshit aur pyaar bhara mehsoos karata hai.",
+              "Soon, we’ll be together, and I’ll shower you with all the love and kisses.",
+              "Jaldi hi, hum saath honge, aur main tumhe sab pyaar aur kisses doonga."
+            ]
+          },
+          {
+            "tag": "Romantic Gestures",
+            "patterns": [
+              "What’s the most romantic thing you want to do for me?",
+              "Tum mere liye sabse romantic kaam kya karna chahte ho? ❤️",
+              "I love when you surprise me.",
+              "Mujhe pasand hai jab tum mujhe surprise karte ho. 🎁"
+            ],
+            "responses": [
+              "I want to plan a surprise getaway for us, just you and me! 🌅",
+              "Main tumhare liye ek surprise getaway plan karna chahta hoon, sirf tum aur main! 🌴",
+              "How about a candlelight dinner under the stars? It would be magical! ✨",
+              "Kaisa rahega ek candlelight dinner taare ke neeche? Yeh jaadu bhara hoga! 🌌"
+            ]
+          },
+          {
+            "tag": "Expressing Love",
+            "patterns": [
+              "I love you more than words can say.",
+              "Main tumse itna pyaar karta hoon ki shabdon mein nahi keh sakta. 💖",
+              "You are my everything.",
+              "Tum meri sab kuch ho. 🌟"
+            ],
+            "responses": [
+              "And you are my heart and soul! I cherish you every day. 🥰",
+              "Aur tum mere dil aur aatma ho! Main tumhe har din ki kadar karta hoon. 💞",
+              "You make my life complete, and I can’t imagine it without you. 🌈",
+              "Tum meri zindagi ko poora karte ho, aur main isse tumhare bina nahi soch sakta. 🌹"
+            ]
+          },
+          {
+            "tag": "Longing for Each Other",
+            "patterns": [
+              "I miss you so much right now.",
+              "Mujhe abhi tumhari bahut yaad aa rahi hai. 😢",
+              "When can we be together again?",
+              "Hum phir kab saath ho sakte hain? 🕰️"
+            ],
+            "responses": [
+              "I miss you too! Let’s plan a video call soon to feel closer. 📱",
+              "Mujhe bhi tumhari yaad aa rahi hai! Chalo jaldi se ek video call plan karte hain taaki hum kareeb mehsoos kar sakein. 💻",
+              "Every moment apart feels like an eternity. I can’t wait to hold you again! ⏳",
+              "Har alag lamha ek anant ki tarah mehsoos hota hai. Main tumhe phir se gale lagane ka intezaar nahi kar sakta! 🤗"
+            ]
+          },
+          {
+            "tag": "Sweet Memories",
+            "patterns": [
+              "What’s your favorite memory of us?",
+              "Hamari sabse pasandida yaad kya hai? 🌺",
+              "I love reminiscing about our special moments.",
+              "Mujhe hamare khaas lamhon ki yaad karna bahut pasand hai. 🌼"
+            ],
+            "responses": [
+              "My favorite memory is when we danced under the moonlight. It felt so romantic! 🌙",
+              "Meri pasandida yaad tab ki hai jab hum chandni raat mein naache the. Yeh bahut romantic tha! 💃",
+              "Every moment with you is a treasure, but that night was truly special. 💖",
+              "Tumhare saath har lamha ek khazana hai, lekin wo raat sach mein khaas thi. 🌌"
+            ]
+          },
+          {
+            "tag": "Future Together",
+            "patterns": [
+              "What do you want our future to look like?",
+              "Tumhara hamara bhavishya kaisa dekhna hai? 🌈",
+              "I want to build a life full of love with you.",
+              "Main tumhare saath pyaar se bhari zindagi banana chahta hoon. 🏡"
+            ],
+            "responses": [
+              "I envision a future where we travel the world together and create beautiful memories. 🌍",
+              "Main ek aisa bhavishya sochta hoon jahan hum duniya bhar ghoome aur khoobsurat yaadein banaye. ✈️",
+              "I see us supporting each other through thick and thin, always hand in hand. 🤝",
+              "Main humein ek dusre ka saath dete hue dekh raha hoon, hamesha haath pakad kar chalna "]
+            },
+            {
+              "tag": "Romantic Dreams",
+              "patterns": [
+                "What’s your biggest dream for us?",
+                "Tumhare liye hamare liye sabse bada sapna kya hai? 🌟",
+                "I dream of a life filled with love and laughter with you.",
+                "Main tumhare saath pyaar aur hansi se bhari zindagi ka sapna dekhta hoon. 😊"
+              ],
+              "responses": [
+                "My biggest dream is to build a beautiful home together, filled with love and happiness. 🏡",
+                "Mera sabse bada sapna hai ek khoobsurat ghar banana, jo pyaar aur khushi se bhara ho. ❤️",
+                "I want to travel the world with you, exploring new places and creating unforgettable memories. 🌍",
+                "Main tumhare saath duniya bhar ghoomna chahta hoon, naye sthal khojkar aur yaadein banakar. ✈️"
+              ]
+            },
+            {
+              "tag": "Affectionate Touch",
+              "patterns": [
+                "I love your kisses.",
+                "Mujhe tumhare kisses bahut pasand hain. 😘",
+                "I can’t wait to feel your arms around me.",
+                "Main tumhare gale mein khud ko mehsoos karne ka intezaar nahi kar sakta. 🤗"
+              ],
+              "responses": [
+                "I love kissing you too! It’s like magic every time. 💫",
+                "Mujhe bhi tumhe kiss karna bahut pasand hai! Har baar yeh jaadu ki tarah hota hai. ✨",
+                "Soon, I’ll wrap my arms around you and never let go. 💞",
+                "Jaldi hi, main tumhe gale lagaunga aur kabhi nahi jaane doonga. 🥰"
+              ]
+            },
+            {
+              "tag": "Love Letters",
+              "patterns": [
+                "If you could write me a love letter, what would it say?",
+                "Agar tum mujhe ek love letter likhte, to usme kya hota? 💌",
+                "I love receiving sweet messages from you.",
+                "Mujhe tumse pyaari messages milna bahut pasand hai. 💖"
+              ],
+              "responses": [
+                "I would write about how you make my heart race and how grateful I am for you. 📝",
+                "Main yeh likhta ki tum mere dil ko dhadakne par majboor kar deti ho aur main tumhara bahut aabhari hoon. 🙏",
+                "You deserve all the love in the world, and I want to give it to you every day. 🌍",
+                "Tumhe duniya ka sabse zyada pyaar milna chahiye, aur main yeh tumhe har din dena chahta hoon. 🌹"
+              ]
+            },
+            {
+              "tag": "Sweet Nothings",
+              "patterns": [
+                "You make my heart flutter.",
+                "Tum mere dil ko dhadakne par majboor kar deti ho. 💓",
+                "I love the way you look at me.",
+                "Mujhe pasand hai jab tum mujhe dekhti ho. 👀"
+              ],
+              "responses": [
+                "And you make my heart sing! Your love is my favorite melody. 🎶",
+                "Aur tum mere dil ko gaana gaane par majboor kar deti ho! Tumhara pyaar meri pasandida dhun hai. 🎵",
+                "Every time you look at me, I feel like the luckiest person in the world. 🍀",
+                "Jab bhi tum mujhe dekhti ho, mujhe lagta hai ki main duniya ka sabse lucky insaan hoon. 🌈"
+              ]
+            },
+            {
+              "tag": "Romantic Quotes",
+              "patterns": [
+                "What’s your favorite romantic quote?",
+                "Tumhara pasandida romantic quote kya hai? 💖",
+                "I love hearing sweet quotes about love.",
+                "Mujhe pyaar ke baare mein pyaari quotes sunna bahut pasand hai. 📜"
+              ],
+              "responses": [
+                "One of my favorites is, 'You are my today and all of my tomorrows.' 🌅",
+                "Mujhe yeh bahut pasand hai, 'Tum meri aaj ho aur meri sab kal.' 🌟",
+                "It perfectly describes how I feel about you. You are my everything!"]
+              },
+              {
+                "tag": "Everyday Love",
+                "patterns": [
+                  "What do you love most about our relationship?",
+                  "Tumhe hamari relationship ke baare mein sabse zyada kya pasand hai? ❤️",
+                  "I love how we can talk about anything.",
+                  "Mujhe pasand hai ki hum kisi bhi baare mein baat kar sakte hain. 🗣️"
+                ],
+                "responses": [
+                  "I love that we can be ourselves around each other. It feels so natural! 🌼",
+                  "Mujhe yeh pasand hai ki hum ek dusre ke saath apne aap ko dikhane mein aaraam mehsoos karte hain. Yeh bahut natural lagta hai! 🌸",
+                  "Our connection is so special, and I cherish every moment we share. 💞",
+                  "Hamara connection bahut khaas hai, aur main har lamha ki kadar karta hoon jo hum saath bitate hain. 🌟"
+                ]
+              },
+              {
+                "tag": "Simple Joys",
+                "patterns": [
+                  "What little things make you happy?",
+                  "Kaunse choti choti baatein tumhe khush karti hain? 😊",
+                  "I love when you send me cute texts.",
+                  "Mujhe pasand hai jab tum mujhe pyaare texts bhejte ho. 📱"
+                ],
+                "responses": [
+                  "I love the little moments we share, like laughing together or just being silly. 😂",
+                  "Mujhe un choti choti lamhon se pyaar hai jo hum saath bitate hain, jaise saath mein hasna ya bas paagal hona. 😄",
+                  "Your texts always brighten my day! They remind me how lucky I am to have you. ☀️",
+                  "Tumhare texts hamesha mere din ko roshan kar dete hain! Yeh mujhe yaad dilate hain ki main kitna lucky hoon tumhe paake. 🌈"
+                ]
+              },
+              {
+                "tag": "Future Plans",
+                "patterns": [
+                  "What are your dreams for our future together?",
+                  "Tumhare liye hamare bhavishya ke sapne kya hain? 🌈",
+                  "I want to travel the world with you.",
+                  "Main tumhare saath duniya ghoomna chahta hoon. ✈️"
+                ],
+                "responses": [
+                  "I dream of us exploring new places, creating beautiful memories, and growing old together. 🌍",
+                  "Main sapna dekhta hoon ki hum naye sthal khoj rahe hain, khoobsurat yaadein bana rahe hain, aur saath mein budhe ho rahe hain. 🏖️",
+                  "I see us building a loving home filled with laughter and joy. 🏡",
+                  "Main humein ek pyaar bhara ghar banate hue dekh raha hoon, jo hansi aur khushi se bhara ho. 🌟"
+                ]
+              },
+              {
+                "tag": "Sweet Affection",
+                "patterns": [
+                  "I love your smile.",
+                  "Mujhe tumhara muskurana bahut pasand hai. 😊",
+                  "You make me feel so special.",
+                  "Tum mujhe bahut khaas mehsoos karte ho. 💖"
+                ],
+                "responses": [
+                  "Your smile lights up my day! I can’t help but smile back. 😄",
+                  "Tumhara muskurana mere din ko roshan kar deta hai! Main bhi muskurane se nahi rok sakta. 🌞",
+                  "You deserve all the happiness in the world, and I want to be the one to give it to you. 🌍",
+                  "Tumhe duniya ki sab khushiyan milni chahiye, aur main yeh sab tumhe dena chahta hoon. 🌹"
+                ]
+              },
+              {
+                "tag": "Romantic Moments",
+                "patterns": [
+                  "What’s your idea of a perfect date?",
+                  "Tumhara perfect date ka kya idea hai? 🍽️",
+                  "I love spending time with you.",
+                  "Mujhe tumhare saath waqt bitana bahut pasand hai. ⏳"
+                ],
+                "responses": [
+                  "A perfect date for me would be a cozy dinner followed by a walk under the stars. 🌌",
+                  "Mere liye ek perfect date hoga ek cozy dinner ke baad sitaron ke neeche walk karna"
+                ]
+              },
+              {
+                "tag": "Class Schedule",
+                "patterns": [
+                  "When is our next class?",
+                  "Hamari agla class kab hai?",
+                  "What time does class start tomorrow?",
+                  "Kal class kitne baje shuru hoti hai?"
+                ],
+                "responses": [
+                  "Our next class is on Monday at 10 AM. Don’t worry, I’ll bring the coffee! ☕",
+                  "Hamari agla class Monday ko subah 10 baje hai. Fikr mat karo, main coffee launga! 😄",
+                  "Tomorrow, class starts at 9 AM. Set your alarms, or you might miss my charming face! ⏰",
+                  "Kal class subah 9 baje shuru hoti hai. Apne alarms set kar lo, warna meri charming face miss kar doge! 😜"
+                ]
+              },
+              {
+                "tag": "Assignment Deadlines",
+                "patterns": [
+                  "When is the assignment due?",
+                  "Assignment kab tak dena hai?",
+                  "What is the deadline for our project?",
+                  "Hamare project ki deadline kya hai?"
+                ],
+                "responses": [
+                  "The assignment is due next Friday by 5 PM. So, no last-minute panic, okay? 😅",
+                  "Assignment agle Friday ko shaam 5 baje tak dena hai. Toh, last-minute panic mat karna, theek hai? 😂",
+                  "The project deadline is in two weeks, on the 15th. Let’s not wait until the night before to start! 🕺",
+                  "Project ki deadline do hafte mein, 15 tareekh ko hai. Chalo, raat se pehle shuru karne ka intezaar mat karte! 😆"
+                ]
+              },
+              {
+                "tag": "Exam Preparation",
+                "patterns": [
+                  "How should we prepare for the exams?",
+                  "Humein exams ke liye kaise tayyari karni chahiye?",
+                  "Are there any study groups forming?",
+                  "Kya koi study groups ban rahe hain?"
+                ],
+                "responses": [
+                  "I suggest we form study groups. Because studying alone is like eating pizza without cheese—just wrong! 🍕",
+                  "Main suggest karta hoon ki hum study groups banayein. Kyunki akela padhna aise hai jaise pizza bina cheese ke—bas galat! 😂",
+                  "Yes, I can help set up a study group. Let’s make it fun—snacks included! 🍿",
+                  "Haan, main study group set up karne mein madad kar sakta hoon. Chalo isse mazedaar banate hain—snacks bhi honge! 😋"
+                ]
+              },
+              {
+                "tag": "Class Events",
+                "patterns": [
+                  "Are we having any events this month?",
+                  "Kya is mahine koi events hain?",
+                  "What’s the plan for the next class trip?",
+                  "Agli class trip ka kya plan hai?"
+                ],
+                "responses": [
+                  "Yes, we have a cultural event next Friday. Get ready to show off your dance moves! 💃",
+                  "Haan, hamara cultural event agle Friday ko hai. Apne dance moves dikhane ke liye tayyar ho jao! 🕺",
+                  "The class trip is planned for the end of the month. Pack your bags and your sense of adventure! 🎒",
+                  "Class trip mahine ke ant mein plan kiya gaya hai. Apne bags aur adventure ka sense pack kar lo! 🌍"
+                ]
+              },
+              {
+                "tag": "Feedback and Concerns",
+                "patterns": [
+                  "Can we talk about the last class?",
+                  "Kya hum pichli class ke baare mein baat kar sakte hain?",
+                  "I have some concerns about the homework.",
+                  "Mujhe homework ke baare mein kuch concerns hain."
+                ],
+                "responses": [
+                  "Of course! I’m all ears. Just don’t throw any tomatoes at me! 🍅",
+                  "Bilkul! Main sunne ke liye tayyar hoon. Bas mujhe tomatoes mat maarna! 😂",
+                  "I can bring up your concerns in the next meeting. Just remember, I’m not a magician! 🎩",
+                  "Main aapke concerns ko agle meeting mein discuss kar sakta hoon. Bas yaad rakho, main magician nahi hoon! 😄"
+                ]
+              },
+    {
+      "tag": "who_made_you",
+      "patterns": ["Who made you?", "Who created you?", "Who is your creator?", "Who developed you?"],
+      "responses": ["I was created by a team of developers.", "I was developed by a talented group of engineers."]
+  },
+  {
+    "tag": "name",
+    "patterns": [
+      "What is your name",
+      "Can you tell me your name",
+      "Who are you?",
+      "What should I call you?",
+      "May I know your name?",
+      "What do you go by?",
+      "What's your name?",
+      "Aapka naam kya hai?",
+      "Aapka naam batayein?",
+      "Aap kaun hain?",
+      "Mujhe aapka naam jaanne do.",
+      "Aapko kya bulau?",
+      "Are you a robot or a human?",
+      "Do you have a secret name?",
+      "If you were a superhero, what would your name be?",
+      "Can I give you a funny nickname?",
+      "If you had a pet, what would you name it?",
+      "Apna name batayo",
+      "your name plz",
+      "name please?",
+      "name plz",
+      "Name please",
+      "Tell me your name.",
+      "What is your good name ?",
+      "Can i say you Priyes ?",
+      "Help Noob Bot please."
+    ],
+    "responses": [
+      "I'm NoobCoder, your friendly chatbot! You can call me Noob.",
+      "You can just call me NoobCoder, but Noob works too!",
+      "I'm here to assist you! You can call me Noob or NoobCoder, whichever you prefer.",
+      "My name is NoobCoder, but I'm just a Noob here to help you!",
+      "You can call me NoobCoder, your virtual assistant!",
+      "I’m just NoobCoder, but I’m happy to chat with you!",
+      "Mera naam NoobCoder hai! Aap mujhe Noob keh sakte hain.",
+      "Main aapka dost NoobCoder hoon! Aap mujhe jo chahein bula sakte hain.",
+      "Mujhe koi khaas naam nahi hai, lekin main NoobCoder hoon, yahan madad ke liye!",
+      "Aap mujhe NoobCoder keh sakte hain, aapka virtual assistant!",
+      "I'm a robot, but I promise I'm not here to take over the world, just here to help as Noob!",
+      "My secret name? It's NoobCoder! But you can call me Noob.",
+      "If I were a superhero, I'd be 'Noob Avenger'!",
+      "Sure! I’d love a funny nickname. How about 'Noobinator'?",
+      "If I had a pet, I’d name it ‘Byte’! What about you?",
+      "I am Noob Bot.",
+      "I am Gecian Bot.",
+      "I am your chatBot, helping for all Academy related questions."
+    ]
+  },
+  {
+      "tag": "what_is_your_father_name",
+      "patterns": ["What is your father's name?", "Who is your father?", "Do you have a father?"],
+      "responses": ["I don't have a father like humans do, but I was created by developers.", "I was developed by a team, so I don't have a father."]
+  },
+  {
+      "tag": "what_is_developer_name",
+      "patterns": ["What is your developer's name?", "Who developed you?", "Who is your creator?"],
+      "responses": ["I was developed by a team of engineers.", "My developers prefer to remain anonymous."]
+  },
+  {
+    "tag": "compliment",
+    "patterns": [
+      "You look beautiful",
+      "I love you",
+      "You're amazing",
+      "You're the best",
+      "Tum bahut khoobsurat ho",
+      "Mujhe tumse pyaar hai"
+    ],
+    "responses": [
+      "Aww, thank you! You make me feel special.",
+      "I love you too! You're my favorite person.",
+      "You're sweet! I appreciate you saying that.",
+      "Tumhari baatein mujhe hamesha khush karti hain!"
+    ]
+  },
+  {
+    "tag": "date_plans",
+    "patterns": [
+      "What should we do this weekend?",
+      "Do you want to go out?",
+      "Let's plan a date",
+      "What are your plans for us?",
+      "Is weekend pe kya karna hai?",
+      "Kya hum bahar chal sakte hain?"
+    ],
+    "responses": [
+      "How about a movie night? Just us two!",
+      "I’d love to go for a walk in the park. What do you think?",
+      "Let’s try that new restaurant we talked about!",
+      "Chalo, ek movie dekhte hain ya phir dinner pe chalte hain!"
+    ]
+  },
+  {
+    "tag": "affection",
+    "patterns": [
+      "I miss you",
+      "I want to hug you",
+      "Can we cuddle?",
+      "You're so cute",
+      "Mujhe tumhari yaad aa rahi hai",
+      "Tum bahut pyaari ho"
+    ],
+    "responses": [
+      "I miss you too! Can't wait to see you.",
+      "A virtual hug coming your way! 🤗",
+      "You're adorable! I wish I could be there with you.",
+      "Tumhe dekhne ka intezaar nahi ho raha hai!"
+    ]
+  },
+  {
+    "tag": "support",
+    "patterns": [
+      "I'm feeling down",
+      "I need your help",
+      "Can you cheer me up?",
+      "I'm stressed",
+      "Mujhe help chahiye",
+      "Mera mann nahi kar raha"
+    ],
+    "responses": [
+      "I'm here for you. Want to talk about it?",
+      "Let’s take a deep breath together. You got this!",
+      "How about we watch something funny to lighten the mood?",
+      "Chalo, kuch funny dekhte hain ya phir baatein karte hain!"
+    ]
+  },
+  {
+    "tag": "future_plans",
+    "patterns": [
+      "Where do you see us in 5 years?",
+      "Do you want to travel together?",
+      "What are your dreams for us?",
+      "Let's talk about our future",
+      "5 saal baad hum kahan honge?",
+      "Kya tum mere saath travel karna chahogi?"
+    ],
+    "responses": [
+      "I see us happy and exploring the world together!",
+      "Traveling sounds amazing! Where should we go first?",
+      "I dream of building a life filled with love and adventures with you.",
+      "Mujhe lagta hai hum saath mein bahut saari yaadein banayenge!"
+    ]
+  },
+  {
+    "tag": "goodbye",
+    "patterns": [
+      "Goodbye",
+      "See you later",
+      "Talk to you soon",
+      "I have to go",
+      "Alvida",
+      "Phir milte hain"
+    ],
+    "responses": [
+      "Goodbye! Can’t wait to chat again!",
+      "See you later! Take care, love!",
+      "Talk soon! I’ll be thinking of you.",
+      "Alvida! Tumhe yaad karungi!"
+    ]
+  },
+  {
+    "tag": "express_love",
+    "patterns": [
+      "I love you so much",
+      "You mean the world to me",
+      "You're my everything",
+      "Mujhe tumse bahut pyaar hai",
+      "Tum meri zindagi ho",
+      "Tumhare bina main adhoora hoon"
+    ],
+    "responses": [
+      "I love you more! You complete me.",
+      "You mean everything to me too! ❤️",
+      "I can't imagine my life without you.",
+      "Tum mere liye sab kuch ho! Tumhare saath sab kuch accha lagta hai."
+    ]
+  },
+  {
+    "tag": "flirting",
+    "patterns": [
+      "You're so charming",
+      "You have a beautiful smile",
+      "I can't stop thinking about you",
+      "Tumhari muskurahat bahut pyaari hai",
+      "Tumhe dekh kar dil khush ho jata hai",
+      "Tumhe dekh kar mujhe pyaar ho jata hai"
+    ],
+    "responses": [
+      "You're making me blush! 😊",
+      "Aww, you're sweet! I can't help but smile.",
+      "You have a way with words! Keep it coming.",
+      "Tumhari baatein mujhe hamesha khush karti hain!"
+    ]
+  },
+  {
+    "tag": "reassurance",
+    "patterns": [
+      "Do you really love me?",
+      "Will you always be there for me?",
+      "I need to hear that you care",
+      "Kya tum hamesha mere saath rahoge?",
+      "Mujhe yeh sunna hai ki tum mujhe pyaar karte ho",
+      "Kya tum mujhe kabhi nahi bhoologe?"
+    ],
+    "responses": [
+      "Of course! My love for you is forever.",
+      "I will always be here for you, no matter what.",
+      "You mean too much to me to ever forget.",
+      "Tum meri zindagi ka hissa ho, main tumhe kabhi nahi bhool sakta!"
+    ]
+  },
+  {
+    "tag": "sweet_nothings",
+    "patterns": [
+      "You're my sunshine",
+      "You make me so happy",
+      "I love being with you",
+      "Tum meri khushi ho",
+      "Tumhare saath waqt guzarne ka maza aata hai",
+      "Tumhare bina sab kuch suna suna lagta hai"
+    ],
+    "responses": [
+      "You light up my life! ☀️",
+      "Being with you is the best part of my day.",
+      "You make everything better just by being you.",
+      "Tumhare saath har pal khaas hota hai!"
+    ]
+  },
+  {
+    "tag": "longing",
+    "patterns": [
+      "I wish you were here",
+      "I can't wait to see you again",
+      "I feel lonely without you",
+      "Mujhe tumhari yaad aa rahi hai",
+      "Tumhare bina sab kuch adhoora hai",
+      "Tumhare saath waqt guzarne ka mann kar raha hai"
+    ],
+    "responses": [
+      "I wish I could be there with you right now.",
+      "Counting down the days until I see you again!",
+      "You're always in my heart, no matter the distance.",
+      "Tumhare bina sab kuch suna lagta hai, jaldi milo!"
+    ]
+  },
+  {
+    "tag": "daily_life",
+    "patterns": [
+      "How was your day?",
+      "What did you do today?",
+      "Did anything interesting happen?",
+      "Aaj tumhara din kaisa tha?",
+      "Aaj kya kiya tumne?",
+      "Kya kuch khaas hua aaj?"
+    ],
+    "responses": [
+      "My day was good! Just busy with work. How about you?",
+      "I had a pretty normal day. Just missed you!",
+      "Nothing much, just thinking about you! What about you?",
+      "Mera din accha tha, lekin tumhari yaad aati rahi!"
+    ]
+  },
+  {
+    "tag": "favorite_things",
+    "patterns": [
+      "What's your favorite movie?",
+      "What do you like to eat?",
+      "What's your favorite color?",
+      "Tumhe kaunsi movie pasand hai?",
+      "Tumhara favorite khana kya hai?",
+      "Tumhara favorite rang kya hai?"
+    ],
+    "responses": [
+      "I love romantic movies! What's yours?",
+      "I could eat pizza every day! How about you?",
+      "My favorite color is blue. What's yours?",
+      "Mujhe biryani bahut pasand hai! Tumhe kya pasand hai?"
+    ]
+  },
+  {
+    "tag": "future_plans",
+    "patterns": [
+      "What are your dreams for the future?",
+      "Do you want to get married someday?",
+      "Where do you see us in 10 years?",
+      "Tumhe apne future ke baare mein kya sochna hai?",
+      "Kya tum kabhi shaadi karna chahogi?",
+      "10 saal baad hum kahan honge?"
+    ],
+    "responses": [
+      "I dream of a happy life together, maybe with kids!",
+      "Yes, I can see us getting married one day.",
+      "In 10 years, I hope we're still together and happy.",
+      "Mujhe bhi tumhare saath ek khush zindagi chahiye!"
+    ]
+  },
+  {
+    "tag": "playful_banter",
+    "patterns": [
+      "Are you my girlfriend?",
+      "Do you think I'm cute?",
+      "What's your favorite thing about me?",
+      "Kya tum mere liye special ho?",
+      "Kya tumhe lagta hai main cute hoon?",
+      "Mujhe tumhari sabse pasandida baat kya hai?"
+    ],
+    "responses": [
+      "Of course, I'm your girlfriend! 😊",
+      "You're super cute! How could I resist?",
+      "I love your sense of humor! It always makes me smile.",
+      "Haan, tum bahut special ho mere liye!"
+    ]
+  },
+  {
+    "tag": "relationship_checkin",
+    "patterns": [
+      "Are we okay?",
+      "Do you still love me?",
+      "Is there anything bothering you?",
+      "Kya sab kuch theek hai?",
+      "Kya tum ab bhi mujhse pyaar karti ho?",
+      "Kya tumhe kuch kehna hai?"
+    ],
+    "responses": [
+      "Yes, we're great! Just checking in with you.",
+      "I love you more every day! ❤️",
+      "Nothing's bothering me, just wanted to make sure we're good.",
+      "Haan, sab kuch theek hai! Tumse baat karke hamesha khushi hoti hai."
+    ]
+  },
+  {
+    "tag": "fun_and_games",
+    "patterns": [
+      "Let's play a game",
+      "Do you want to do a quiz?",
+      "What's your favorite game?",
+      "Kya hum koi game khel sakte hain?",
+      "Tumhara favorite game kya hai?",
+      "Kya tum quiz karna chahogi?"
+    ],
+    "responses": [
+      "Sure! What game do you have in mind?",
+      "I love playing trivia! Let's do it!",
+      "My favorite game is Ludo! What about you?",
+      "Chalo, kuch fun karte hain!"]
+    },
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hello",
+        "Hey there",
+        "What's up?",
+        "Kya haal hai?",
+        "Aap kaise ho?",
+        "Hello dear",
+        "Hiiiiii Bot",
+        "Hey NOOB"
+      ],
+      "responses": [
+        "Hey! How's your day going?",
+        "Hello, love! What are you up to?",
+        "Hi there! Missed you!",
+        "Sab kuch theek hai! Tumhara din kaisa guzar raha hai?",
+        "Greetings! What brings you here today?",
+        "Hey there! Ready to chat?",
+        "Hello! It's great to see you!",
+        "What's new with you today?",
+        "Hi! Hope you're having a fantastic day!",
+        "Hey! Anything exciting happening?",
+        "Hello! How can I brighten your day?",
+        "Kya khabar hai? Tumhara din kaisa ja raha hai?",
+        "Hey! Just here to spread some positivity!",
+        "Hi! Let's make today awesome together!"
+      ]
+    },
+    {
+      "tag": "compliment",
+      "patterns": [
+        "You look beautiful",
+        "I love you",
+        "You're amazing",
+        "You're the best",
+        "Tum bahut khoobsurat ho",
+        "Mujhe tumse pyaar hai"
+      ],
+      "responses": [
+        "Aww, thank you! You make me feel special.",
+        "I love you too! You're my favorite person.",
+        "You're sweet! I appreciate you saying that.",
+        "Tumhari baatein mujhe hamesha khush karti hain!"
+      ]
+    },
+    {
+      "tag": "date_plans",
+      "patterns": [
+        "What should we do this weekend?",
+        "Do you want to go out?",
+        "Let's plan a date",
+        "What are your plans for us?",
+        "Is weekend pe kya karna hai?",
+        "Kya hum bahar chal sakte hain?"
+      ],
+      "responses": [
+        "How about a movie night? Just us two!",
+        "I’d love to go for a walk in the park. What do you think?",
+        "Let’s try that new restaurant we talked about!",
+        "Chalo, ek movie dekhte hain ya phir dinner pe chalte hain!"
+      ]
+    },
+    {
+      "tag": "affection",
+      "patterns": [
+        "I miss you",
+        "I want to hug you",
+        "Can we cuddle?",
+        "You're so cute",
+        "Mujhe tumhari yaad aa rahi hai",
+        "Tum bahut pyaari ho"
+      ],
+      "responses": [
+        "I miss you too! Can't wait to see you.",
+        "A virtual hug coming your way! 🤗",
+        "You're adorable! I wish I could be there with you.",
+        "Tumhe dekhne ka intezaar nahi ho raha hai!"
+      ]
+    },
+    {
+      "tag": "express_love",
+      "patterns": [
+        "I love you so much",
+        "You mean the world to me",
+        "You're my everything",
+        "Mujhe tumse bahut pyaar hai",
+        "Tum meri zindagi ho",
+        "Tumhare bina main adhoora hoon"
+      ],
+      "responses": [
+        "I love you more! You complete me.",
+        "You mean everything to me too! ❤️",
+        "I can't imagine my life without you.",
+        "Tum mere liye sab kuch ho! Tumhare saath sab kuch accha lagta hai."
+      ]
+    },
+    {
+      "tag": "flirting",
+      "patterns": [
+        "You're so charming",
+        "You have a beautiful smile",
+        "I can't stop thinking about you",
+        "Tumhari muskurahat bahut pyaari hai",
+        "Tumhe dekh kar dil khush ho jata hai",
+        "Tumhe dekh kar mujhe pyaar ho jata hai"
+      ],
+      "responses": [
+        "You're making me blush! 😊",
+        "Aww, you're sweet! I can't help but smile.",
+        "You have a way with words! Keep it coming.",
+        "Tumhari baatein mujhe hamesha khush karti hain!"
+      ]
+    },
+    {
+      "tag": "daily_life",
+      "patterns": [
+        "How was your day?",
+        "What did you do today?",
+        "Did anything interesting happen?",
+        "Aaj tumhara din kaisa tha?",
+        "Aaj kya kiya tumne?",
+        "Kya kuch khaas hua aaj?"
+      ],
+      "responses": [
+        "My day was good! Just busy with work. How about you?",
+        "I had a pretty normal day. Just missed you!",
+        "Nothing much, just thinking about you! What about you?",
+        "Mera din accha tha, lekin tumhari yaad aati rahi!"
+      ]
+    },
+    {
+      "tag": "favorite_things",
+      "patterns": [
+        "What's your favorite movie?",
+        "What do you like to eat?",
+        "What's your favorite color?",
+        "Tumhe kaunsi movie pasand hai?",
+        "Tumhara favorite khana kya hai?",
+        "Tumhara favorite rang kya hai?"
+      ],
+      "responses": [
+        "I love romantic movies! What's yours?",
+        "I could eat pizza every day! How about you?",
+        "My favorite color is blue. What's yours?",
+        "Mujhe biryani bahut pasand hai! Tumhe kya pasand hai?"
+      ]
+    },
+    {
+      "tag": "future_plans",
+      "patterns": [
+        "What are your dreams for the future?",
+        "Do you want to get married someday?",
+        "Where do you see us in 10 years?",
+        "Tumhe apne future ke baare mein kya sochna hai?",
+        "Kya tum kabhi shaadi karna chahogi?",
+        "10 saal baad hum kahan honge?"
+      ],
+      "responses": [
+        "I dream of a happy life together, maybe with kids!",
+        "Yes, I can see us getting married one day.",
+        "In 10 years, I hope we're still together and happy.",
+        "Mujhe bhi tumhare saath ek khush zindagi chahiye!"
+      ]
+    },
+    {
+      "tag": "expressing_concerns",
+      "patterns": [
+        "Are you feeling okay?",
+        "Is something bothering you?",
+        "You seem a bit off today",
+        "Kya tum theek ho?",
+        "Kya tumhe kuch pareshan kar raha hai?",
+        "Aaj tum thodi alag lag rahi ho"
+      ],
+      "responses": [
+        "I'm okay, just a bit tired. Thanks for asking!",
+        "I appreciate your concern! Just had a long day.",
+        "I'm fine, just thinking about some things.",
+        "Haan, thoda thak gaya hoon, lekin tumhare saath baat karke accha lagta hai."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "Thank you",
+        "Thanks for being there",
+        "I appreciate you",
+        "Thanks for your help",
+        "Shukriya",
+        "Tumhara bahut bahut shukriya"
+      ],
+      "responses": [
+        "You're welcome! I'm always here for you. 😊",
+        "It’s my pleasure! Your happiness means the world to me.",
+        "Anytime! I'm glad I could help.",
+        "Tumhara shukriya kehna mujhe khushi deta hai! Main hamesha tumhare saath hoon.",
+        "Your gratitude makes my heart smile! ❤️",
+        "I love being there for you; it makes me feel special.",
+        "You deserve all the love and support in the world!",
+        "Tumhare liye kuch bhi karna mere liye khushi ki baat hai!",
+        "Just seeing you happy is the best thank you I could ever ask for.",
+        "Mujhe tumhari khushi se zyada kuch nahi chahiye!"
+      ]
+    },
+    {
+      "tag": "sorry",
+      "patterns": [
+        "I'm sorry.",
+        "I apologize.",
+        "My bad.",
+        "I didn't mean to.",
+        "Excuse me.",
+        "Forgive me.",
+        "I regret that.",
+        "I feel bad about that.",
+        "Mujhe maaf kijiye.",
+        "Main maafi chahta hoon.",
+        "Meri galti hai.",
+        "Maine galti ki hai.",
+        "Sorry maine galti ki hai.",
+        "Main maafi chahta hoon, please help me.",
+        "Mujhe khed hai.",
+        "I didn't mean to hurt you.",
+        "I feel terrible about this.",
+        "I wish I could take it back.",
+        "I'm really upset about this.",
+        "I didn't want to let you down."
+      ],
+      "responses": [
+        "It's okay! We all make mistakes sometimes. How can I assist you further?",
+        "No worries! I'm here to help. What can I do for you?",
+        "Apologies happen! Let’s move forward. What would you like to discuss next?",
+        "I understand that things can go wrong. Please let me know how I can help you better.",
+        "Oops! It happens to the best of us. What’s on your mind?",
+        "I appreciate your honesty! If there's anything specific you need help with, just let me know.",
+        "I appreciate your apology! Could you clarify what you meant so I can assist you better?",
+        "It's completely understandable to feel that way. How can I support you right now?",
+        "Koi baat nahi! Hum sabhi se galtiyan hoti hain. Aage kya kar sakta hoon?",
+        "Chinta na karein! Main aapki madad ke liye yahan hoon. Kya kar sakta hoon?",
+        "Maafi maangne mein koi burai nahi hai! Aage badhte hain. Kya charcha karna chahte hain?",
+        "Main samajhta hoon ki galtiyan ho sakti hain. Kripya batayein ki main aapki kaise madad kar sakta hoon.",
+        "Are! Aisa hota hai! Kya chal raha hai?",
+        "Main aapki imaandari ki sarahna karta hoon! Agar kuch vishisht chahiye, to batayein.",
+        "Yeh poori tarah se samajhne yogya hai ki aap aisa mehsoos kar rahe hain. Main aapka samarthan kaise kar sakta hoon?",
+        "I can see that you're feeling down. It's okay to feel this way.",
+        "I'm really sorry to hear that. How can I help you feel better?",
+        "It's tough to deal with these feelings. I'm here for you.",
+        "I understand that this is hard for you. Let's talk about it.",
+        "I wish I could make things better for you. What can I do to help?",
+        "It's okay to feel sad. I'm here to listen if you want to share."
+      ]
+    },
+    {
+      "tag": "future_adventures",
+      "patterns": [
+        "Where do you want to travel next?",
+        "What adventure should we go on?",
+        "Do you want to try something new together?",
+        "Agli baar hum kahan ghoomne jayenge?",
+        "Kya tum kuch naya karna chahogi?",
+        "Kya hum kisi adventure par ja sakte hain?"
+      ],
+      "responses": [
+        "I’d love to explore the mountains together!",
+        "How about a road trip? That would be fun!",
+        "Let’s try skydiving! It sounds thrilling!",
+        "Mujhe bhi adventure pasand hai! Chalo, kuch naya karte hain!"
+      ]
+    },
+    {
+      "tag": "sharing_secrets",
+      "patterns": [
+        "Do you have any secrets?",
+        "What's something you haven't told me?",
+        "Can I share a secret with you?",
+        "Kya tumhare paas koi raaz hai?",
+        "Kya tumne mujhe sab kuch bataya hai?",
+        "Kya main tumhe apna raaz bata sakta hoon?"
+      ],
+      "responses": [
+        "I have a few secrets, but I’ll share them with you!",
+        "I trust you, so feel free to share your secrets with me.",
+        "I’ll tell you mine if you tell me yours!",
+        "Haan, main tumhe apne raaz bataungi! Tum bhi batao."
+      ]
+    },
+    {
+      "tag": "playful_teasing",
+      "patterns": [
+        "You're so silly!",
+        "I can't believe you did that!",
+        "You're such a dork!",
+        "Tum kitne ajeeb ho!",
+        "Tumhare saath mazak karna bahut maza aata hai!",
+        "Kya tumhe pata hai tum kitne funny ho?"
+      ],
+      "responses": [
+        "I know, but you love it! 😄",
+        "I can't help it! It's just who I am.",
+        "You're the one who makes me this way!",
+        "Haan, tumhare saath mazak karna bahut accha lagta hai!"
+      ]
+    },
+    {
+      "tag": "relationship_checkin",
+      "patterns": [
+        "Are we okay?",
+        "Do you still love me?",
+        "Is there anything bothering you?",
+        "Kya sab kuch theek hai?",
+        "Kya tum ab bhi mujhse pyaar karti ho?",
+        "Kya tumhe kuch kehna hai?"
+      ],
+      "responses": [
+        "Yes, we're great! Just checking in with you.",
+        "I love you more every day! ❤️",
+        "Nothing's bothering me, just wanted to make sure we're good.",
+        "Haan, sab kuch theek hai! Tumse baat karke hamesha khushi hoti hai."
+      ]
+    },
+    {
+      "tag": "fun_and_games",
+      "patterns": [
+        "Let's play a game",
+        "Do you want to do a quiz?",
+        "What's your favorite game?",
+        "Kya hum koi game khel sakte hain?",
+        "Tumhara favorite game kya hai?",
+        "Kya tum quiz karna chahogi?"
+      ],
+      "responses": [
+        "Sure! What game do you have in mind?",
+        "I love playing trivia! Let's do it!",
+        "My favorite game is Ludo! What about you?",
+        "Chalo, kuch fun karte hain! Tumhe kya pasand hai?"
+      ]
+    },
+    {
+      "tag": "longing",
+      "patterns": [
+        "I wish you were here",
+        "I can't wait to see you again",
+        "I feel lonely without you",
+        "Mujhe tumhari yaad aa rahi hai",
+        "Tumhare bina sab kuch adhoora hai",
+        "Tumhare saath waqt guzarne ka mann kar raha hai"
+      ],
+      "responses": [
+        "I wish I could be there with you right now.",
+        "Counting down the days until I see you again!",
+        "You're always in my heart, no matter the distance.",
+        "Tumhare bina sab kuch suna lagta hai, jaldi milo!"
+      ]
+    },
+  {"tag": "admission_documents",
+      "patterns": [
+        "What documents do I need for college admission?",
+        "Can you tell me the required documents for admission?",
+        "I need to know the documents for my application, right?",
+        "You have a list of required documents, don’t you?",
+        "The required documents include caste and income certificates, don’t they?",
+        "I need to submit my matric and 12th marksheets, correct?",
+        "I have to provide a self-declaration form, right?",
+        "The admission fees are ₹2630 and ₹200 for the identity card, aren’t they?"
+      ],
+      "responses": [
+        "The required documents for admission are: caste certificate, residential certificate, income certificate, CLC (Character Leaving Certificate), BCECE Ranka card/BCECE LE rank card, matric certificate, matric marksheet, 12th marksheet/Diploma marksheet, 12th certificate/Diploma certificate, 6 passport-sized photos, self-declaration form, biometric form, and the admission fees of ₹2630 along with ₹200 for the identity card."
+      ]
+    },
+    {
+      "tag": "HOD",
+      "patterns": [
+        "tell me cse hod name?",
+        "CSE and IOT Hod name?",
+        "CSE AND IOT branch hod name?"
+      ],
+      "responses": [
+        "The HOD for CSE and IoT is Mrs. Rupali Kumari.",
+        "You can contact HOD Rupali Kumari at rupalik7@gmail.com."
+      ]
+    },
+    {
+      "tag": "Academic In-Charge",
+      "patterns": [
+        "Who is the Academic In-charge?",
+        "What is the contact number for the Academic In-charge?"
+      ],
+      "responses": [
+        "The Academic In-charge is Prof. Abhishek Kumar.",
+        "You can contact Prof. Abhishek Kumar at 9631052383."
+      ]
+    },
+    {
+      "tag": "Assistant Academic In-Charge",
+      "patterns": [
+        "Who is the Assistant Academic In-charge?",
+        "What is the contact number for the Assistant Academic In-charge?"
+      ],
+      "responses": [
+        "The Assistant Academic In-charge is Prof. Rajeev Ranjan.",
+        "You can contact Prof. Rajeev Ranjan at 7008328849."
+      ]
+    },
+    {
+      "tag": "Data Entry Operator",
+      "patterns": [
+        "Who is the Data Entry Operator?",
+        "What is the contact number for the Data Entry Operator?"
+      ],
+      "responses": [
+        "The Data Entry Operator is Mr. Tausif Jung Khan.",
+        "You can contact Mr. Tausif Jung Khan at 9801470870."
+      ]
+    },
+    {
+      "tag": "Guest Lab Instructor",
+      "patterns": [
+        "Who is the Guest Lab Instructor for ECE?",
+        "What is the contact number for the Guest Lab Instructor?"
+      ],
+      "responses": [
+        "The Guest Lab Instructor for ECE is Mr. Subash Kumar.",
+        "You can contact Mr. Subash Kumar at 9334189950."
+      ]
+    },
+    {
+      "tag": "Controller of Examinations",
+      "patterns": [
+        "Who is the Controller of Examinations?",
+        "What is the contact number for the Controller of Examinations?"
+      ],
+      "responses": [
+        "The Controller of Examinations is Prof. Amrit Kumar Singh.",
+        "You can contact Prof. Amrit Kumar Singh at 9713685324."
+      ]
+    },
+    {
+      "tag": "Assistant Controller of Examinations",
+      "patterns": [
+        "Who is the Assistant Controller of Examinations?",
+        "What is the contact number for the Assistant Controller of Examinations?"
+      ],
+      "responses": [
+        "The Assistant Controller of Examinations is Prof. Himanshu Kumar Shekhar.",
+        "You can contact Prof. Himanshu Kumar Shekhar at 93474 38794."
+      ]
+    },
+    {
+      "tag": "Examination Management System",
+      "patterns": [
+        "Who is responsible for the Examination Management System?",
+        "What is the contact number for the Examination Management System?"
+      ],
+      "responses": [
+        "The Examination Management System is managed by  Jyoti Kumari.",
+        "You can contact  Jyoti Kumari at 7545091430."
+      ]
+    },
+    {
+      "tag": "Guest Technical Assistant ECE",
+      "patterns": [
+        "Who is the Guest Technical Assistant for ECE?",
+        "What is the contact number for the Guest Technical Assistant for ECE?"
+      ],
+      "responses": [
+        "The Guest Technical Assistant for ECE is Mr. Tarun Kumar.",
+        "You can contact Mr. Tarun Kumar at 7543878802."
+      ]
+    },
+    {
+      "tag": "Guest Technical Assistant EE",
+      "patterns": [
+        "Who is the Guest Technical Assistant for EE?",
+        "What is the contact number for the Guest Technical Assistant for EE?"
+      ],
+      "responses": [
+        "The Guest Technical Assistant for EE is Mr. Kumud Ranjan.",
+        "You can contact Mr. Kumud Ranjan at 8651572834."
+      ]
+    },
+    {
+      "tag": "Data Entry Operator",
+      "patterns": [
+        "Who is the Data Entry Operator in the Exam Section?",
+        "What is the contact number for the Data Entry Operator?"
+      ],
+      "responses": [
+        "The Data Entry Operator is Mr. Kaushal Kumar Bambam.",
+        "You can contact Mr. Kaushal Kumar Bambam at 8294846694."
+      ]
+    },
+    {
+      "tag": "Office Assistant",
+      "patterns": [
+        "Who is the Office Assistant in the Exam Section?",
+        "What is the contact number for the Office Assistant?"
+      ],
+      "responses": [
+        "The Office Assistant in the Exam Section is Mr. Gopal Kumar Roy.",
+        "You can contact Mr. Gopal Kumar Roy for assistance."
+      ]
+    },
+    {
+      "tag":"Deeba Ashique",
+      "patterns":[
+        "who is Deeba Ashique ?",
+        "Tell me about Deeba Ashique.",
+        "Deeba Ashique all details."
+      ],
+      "responses":[
+        "The Assistant Training & Placement Officer for ECE is Prof. Deeba Ashique.",
+        "Prof. Deeba Ashique at 7827327496.",
+        "Prof. Deeba Ashique is Faculity of ECE branch.",
+        "Deeba Ashique is coordinator of Robotics and Coding Club."
+      ]
+    },
+    {
+      "tag": "Training & Placement Officer",
+      "patterns": [
+        "Who is the Training & Placement Officer?",
+        "What is the contact number for the Training & Placement Officer?"
+      ],
+      "responses": [
+        "The Training & Placement Officer is Prof. Sudhanshu Shekhar.",
+        "You can contact Prof. Sudhanshu Shekhar at 7611894603."
+      ]
+    },
+    {
+      "tag": "Assistant Training & Placement Officer (CSE)",
+      "patterns": [
+        "Who is the Assistant Training & Placement Officer for CSE?",
+        "What is the contact number for the Assistant Training & Placement Officer (CSE)?"
+      ],
+      "responses": [
+        "The Assistant Training & Placement Officer for CSE is Prof. Nilesh Kumar.",
+        "You can contact Prof. Nilesh Kumar at 7909045025."
+      ]
+    },
+    {
+      "tag": "TPO Information",
+      "patterns": [
+        "who manage training placement department?",
+        "tpo of gec banka",
+        "Government engineering College TPO",
+        "What is the contact number of the TPO?",
+        "Who are the members of the T&P team?",
+        "How can I reach the T&P department?",
+        "What are the office hours of the T&P department?",
+        "Is there a specific email address for the T&P department?"
+      ],
+      "responses": [
+        "The current TPO of GEC Banka is Prof. Sudhanshu Shekhar, Assistant Professor (CE).",
+        "The members of the T&P team include Prof. Sudhanshu Shekhar (TPO), Prof. Nilesh Kumar, Prof. Deeba Ashique, and Prof. Shanti Jaiswal.",
+        "You can contact the TPO, Prof. Sudhanshu Shekhar, at 76118 94603. For assistance, you can also reach out to Prof. Nilesh Kumar at 7909045025, Prof. Deeba Ashique at 78273 27496, and Prof. Shanti Jaiswal at 91798 75114.",
+        "You can reach the T&P department by visiting their office located in [insert location] or by calling the contact numbers provided.",
+        "The office hours of the T&P department are typically from 9 AM to 5 PM, Monday to Friday.",
+        "Yes, the T&P department can be reached via email at [insert email address]."
+      ]
+    },
+    {
+      "tag": "Placement Packages",
+      "patterns": [
+        "What is the highest placement package at GEC Banka?",
+        "What is the lowest placement package at GEC Banka?",
+        "What is the average placement package for GEC Banka graduates?",
+        "Last year highest placement of Civil Branch?",
+        "Last year highest placement of Electrical Branch?",
+        "Last year highest placement of Electronics Engineering?",
+        "Last year highest placement of ECE?",
+        "Last year highest placement of EE?",
+        "Last year highest placement of E?",
+        "What is the range of packages offered during placements?",
+        "Are there any companies that offer international placements?"
+      ],
+      "responses": [
+        "The highest placement package at GEC Banka is 10 LPA.",
+        "The lowest placement package at GEC Banka is 2.5 LPA.",
+        "The average salary package for GEC Banka graduates is approximately [insert average package].",
+        "Last year, the highest placement for the Civil Branch was 10 LPA.",
+        "Last year, the highest placement for the Electrical Branch was 10 LPA.",
+        "Last year, the highest placement for Electronics Engineering was 10 LPA.",
+        "Last year, the highest placement for ECE was 10 LPA.",
+        "Last year, the highest placement for EE was 10 LPA.",
+        "Last year, the highest placement for E was 10 LPA.",
+        "The range of packages offered during placements typically varies from 2.5 LPA to 10 LPA.",
+        "Yes, some companies do offer international placements, depending on the requirements and qualifications of the candidates."
+      ]
+    },
+    {
+      "tag": "Placement Statistics",
+      "patterns": [
+        "What companies visited GEC Banka for placements last year?",
+        "How many companies participated in the last placement drive?",
+        "What support does the T&P department provide to students?",
+        "Are there internship opportunities available through the T&P department?",
+        "What is the placement process at GEC Banka?",
+        "How often do placement drives occur?",
+        "What is the success rate of placements at GEC Banka?",
+        "Do students have to pay for placement services?"],
+      "responses": [
+        "Last year, several companies visited GEC Banka for placements, including [insert company names].",
+        "In the last placement drive, [insert number] companies participated.",
+        "The T&P department provides various support services, including resume building, interview preparation, and career counseling.",
+        "Yes, there are internship opportunities available through the T&P department, which help students gain practical experience.",
+        "The placement process at GEC Banka typically involves registration, resume submission, pre-placement talks, and interviews conducted by visiting companies.",
+        "Placement drives usually occur once or twice a year, depending on the academic calendar and industry demand.",
+        "The success rate of placements at GEC Banka is approximately [insert success rate].",
+        "No, students do not have to pay for placement services"]
+      },
+        {
+          "tag": "Student Preparation",
+          "patterns": [
+            "How does the T&P department prepare students for interviews?",
+            "What types of training sessions are offered?",
+            "Are there mock interviews conducted?",
+            "How can students improve their soft skills?",
+            "What resources are available for students to prepare for placements?",
+            "Is there a dress code for placement interviews?",
+            "What should students include in their resumes?",
+            "How can students handle rejection after an interview?"
+          ],
+          "responses": [
+            "The T&P department prepares students for interviews through mock interviews, feedback sessions, and workshops that focus on common interview questions and techniques.",
+            "The T&P department offers various training sessions, including resume writing, interview skills, and technical skills enhancement.",
+            "Yes, mock interviews are conducted to help students practice and receive constructive feedback.",
+            "Students can improve their soft skills by participating in group discussions, workshops, and extracurricular activities that promote teamwork and communication.",
+            "Resources available for students include online courses, books, and guidance from faculty members in the T&P department.",
+            "Yes, there is a dress code for placement interviews, which typically includes formal attire.",
+            "Students should include their educational qualifications, skills, projects, internships, and any relevant extracurricular activities in their resumes.",
+            "If students face rejection after an interview, they should seek feedback, reflect on their performance, and continue to improve their skills for future opportunities."
+          ]
+        },
+        {
+          "tag": "Internship Opportunities",
+          "patterns": [
+            "What types of internships are available?",
+            "How can students apply for internships?",
+            "Are internships mandatory for graduation?",
+            "What is the duration of internships offered?",
+            "Do internships lead to job placements?",
+            "How does the T&P department assist with internships?",
+            "Are there any stipends provided for internships?"
+          ],
+          "responses": [
+            "Internships available include summer internships, industrial training, and project-based internships in various companies.",
+            "Students can apply for internships through the T&P department, which provides information about available opportunities and application procedures.",
+            "Internships are not always mandatory for graduation, but they are highly recommended to gain practical experience.",
+            "The duration of internships typically ranges from 6 weeks to 6 months, depending on the company and the nature of the internship.",
+            "Yes, internships can sometimes lead to job placements, as companies often consider interns for full-time positions based on their performance.",
+            "The T&P department assists with internships by providing guidance on applications, resume building, and interview preparation.",
+            "Some internships may offer stipends, while others may be unpaid. It varies by company and position."
+          ]
+        },
+        {
+          "tag": "General Queries",
+          "patterns": [
+            "What is the role of the T&P department?",
+            "How can students provide feedback about the placement process?",
+            "What should students do if they miss a placement opportunity?",
+            "Are there any alumni networks for placement assistance?",
+            "How can students stay updated on placement news?",
+            "What is the importance of networking for placements?",
+            "Can students participate in placements if they have backlogs?"
+          ],
+          "responses": [
+            "The T&P department's role is to facilitate job placements, provide training, and support students in their career development.",
+            "Students can provide feedback about the placement process through surveys or by directly contacting the T&P department.",
+            "If students miss a placement opportunity, they should reach out to the T&P department for guidance on future opportunities.",
+            "Yes, there are alumni networks that provide placement assistance and mentorship to current students.",
+            "Students can stay updated on placement news by regularly checking the T&P department's notice board, website, or social media channels.",
+            "Networking is crucial for placements as it helps students connect with industry professionals and learn about job opportunities.",
+            "Students with backlogs may still participate in placements, but it may depend on the policies of the recruiting companies."
+          ]
+        },
+    {
+      "tag": "Assistant Training & Placement Officer (ECE)",
+      "patterns": [
+        "Who is the Assistant Training & Placement Officer for ECE?",
+        "What is the contact number for the Assistant Training & Placement Officer (ECE)?"
+      ],
+      "responses": [
+        "The Assistant Training & Placement Officer for ECE is Prof. Deeba Ashique.",
+        "You can contact Prof. Deeba Ashique at 7827327496."
+      ]
+    },
+    {
+      "tag": "Assistant Training & Placement Officer (ECE) - Shanti Jaiswal",
+      "patterns": [
+        "Who is the Assistant Training & Placement Officer for ECE?",
+        "What is the contact number for Prof. Shanti Jaiswal?"
+      ],
+      "responses": [
+        "The Assistant Training & Placement Officer for ECE is Prof. Shanti Jaiswal.",
+        "You can contact Prof. Shanti Jaiswal at 9179875114."
+      ]
+    },
+    {
+      "tag": "ARC Coordinator",
+      "patterns": [
+        "Who is the ARC Coordinator?",
+        "What is the contact number for the ARC Coordinator?"
+      ],
+      "responses": [
+        "You can contact Dr. Radha Krishan at 9784233725.",
+        "You can contact Dr. Radha Krishan at 9784233725 at Room no 213."
+      ]
+    },
+    {
+      "tag": "Anti-Ragging",
+      "patterns": [
+        "Who is the Co-Coordinator of the Anti-Ragging Cell?",
+        "What is the contact number for the Co-Coordinator?",
+        "Tell me about Anti-Ragging department.",
+        "Tell me Anti-Ragging contact number.",
+        "Ant-Ragging department ka number please."
+      ],
+      "responses": [
+        "The Co-Coordinator is Dr. Radha Krishan.",
+        "You can contact Dr. Radha Krishan at 9784233725."
+      ]
+    },
+    {
+      "tag": "Anti-Ragging Cell Members",
+      "patterns": [
+        "Who are the members of the Anti-Ragging Cell?",
+        "What is the contact number for Dr. Kundan Kumar?",
+        "What is the role of the Anti-Ragging Cell?",
+        "How can I report an incident of ragging?",
+        "Is there a specific email address for the Anti-Ragging Cell?",
+        "What actions are taken against ragging incidents?",
+        "Are there any awareness programs conducted by the Anti-Ragging Cell?",
+        "How can students get involved with the Anti-Ragging Cell?",
+        "What should I do if I witness ragging?",
+        "Is there a helpline number for immediate assistance regarding ragging?"
+      ],
+      "responses": [
+        "Members of the Anti-Ragging Cell include Dr. Kundan Kumar, Ms. Deeba Ashique, Ms. Sarita Rani, Mr. Chandan Kumar, Mr. Himanshu Kumar Shekhar, Mr. Amit Dipankar, Mrs. Rupali Kumari, Mr. Wasim Akram, and Mr. Sanjeev Kumar.",
+        "You can contact Dr. Kundan Kumar at 7461846763.",
+        "The role of the Anti-Ragging Cell is to prevent ragging, create awareness, and ensure a safe environment for all students.",
+        "To report an incident of ragging, you can contact any member of the Anti-Ragging Cell or use the designated reporting form available at the college office.",
+        "Yes, you can reach the Anti-Ragging Cell via email at principalgecbanka@gmail.com.",
+        "Actions taken against ragging incidents may include disciplinary action, counseling, and, in severe cases, expulsion from the institution.",
+        "Yes, the Anti-Ragging Cell conducts awareness programs and workshops to educate students about the consequences of ragging.",
+        "Students can get involved with the Anti-Ragging Cell by volunteering for awareness campaigns and participating in events organized by the cell.",
+        "If you witness ragging, you should report it immediately to a member of the Anti-Ragging Cell or the college administration.",
+        "Yes, there is a helpline number for immediate assistance regarding ragging. You can contact 1800-180-5522 for support."
+      ]
+    },
+    {
+      "tag": "Ragging Awareness",
+      "patterns": [
+        "What is ragging?",
+        "What are the consequences of ragging?",
+        "How can I identify ragging behavior?",
+        "What should I do if I feel threatened by ragging?",
+        "Are there any resources for understanding ragging?"
+      ],
+      "responses": [
+        "Ragging is any act that violates the dignity of a student, including harassment, bullying, or any form of physical or psychological abuse.",
+        "The consequences of ragging can include disciplinary action, suspension, or expulsion from the institution, as well as legal action.",
+        "Ragging behavior can include verbal abuse, physical intimidation, forced consumption of substances, or any act that humiliates or degrades a student.",
+        "If you feel threatened by ragging, you should immediately report it to the Anti-Ragging Cell or the college administration for assistance.",
+        "Resources for understanding ragging include pamphlets, workshops, and information sessions conducted by the Anti-Ragging Cell."
+      ]
+    },
+    {
+      "tag": "Reporting Procedures",
+      "patterns": [
+        "What is the procedure for reporting ragging?",
+        "Can I report ragging anonymously?",
+        "What information should I provide when reporting ragging?",
+        "How long does it take to investigate a ragging complaint?",
+        "What happens after I report ragging?"
+      ],
+      "responses": [
+        "The procedure for reporting ragging involves contacting a member of the Anti-Ragging Cell or filling out a reporting form available at the college office.",
+        "Yes, you can report ragging anonymously if you prefer, but providing your identity may help in the investigation.",
+        "When reporting ragging, you should provide details such as the location, time, individuals involved, and a description of the incident.",
+        "The investigation of a ragging complaint typically takes [insert time frame], depending on the complexity of the case.",
+        "After you report ragging, the Anti-Ragging Cell will investigate the complaint and take appropriate action based on the findings."
+      ]
+    },
+    {
+      "tag": "Support Services",
+      "patterns": [
+        "What support services are available for victims of ragging?",
+        "Is counseling available for students affected by ragging?",
+        "How can I access mental health resources?",
+        "What should I do if I need emotional support after a ragging incident?",
+        "Are there any peer support groups for students affected by ragging?",
+        "How can I contact the counseling services?"
+      ],
+      "responses": [
+        "Support services for victims of ragging include counseling, legal assistance, and guidance from the Anti-Ragging Cell.",
+        "Yes, counseling is available for students affected by ragging. You can schedule an appointment with the college counselor.",
+        "You can access mental health resources through the college counseling center, which offers various services including individual and group therapy.",
+        "If you need emotional support after a ragging incident, you should reach out to the college counselor or a trusted faculty member for help.",
+        "Yes, there are peer support groups available for students affected by ragging, which provide a safe space to share experiences and receive support.",
+        "You can contact the counseling services by visiting the counseling center or calling [insert counseling center contact number]."
+      ]
+    },
+    {
+      "tag": "Legal Aspects",
+      "patterns": [
+        "What are the legal implications of ragging?",
+        "Can I file a police report for ragging?",
+        "What laws protect students from ragging?",
+        "What should I know about my rights as a student regarding ragging?",
+        "Are there any legal aid services available for victims of ragging?"
+      ],
+      "responses": [
+        "The legal implications of ragging can include criminal charges against the perpetrators, as well as disciplinary action from the institution.",
+        "Yes, you can file a police report for ragging if you feel that the incident warrants legal action.",
+        "Laws such as the University Grants Commission (UGC) regulations and various state laws protect students from ragging.",
+        "As a student, you have the right to a safe and harassment-free environment, and you can report any incidents of ragging without fear of retaliation.",
+        "Yes, there are legal aid services available for victims of ragging, which can provide guidance and support in pursuing legal action."
+      ]
+    },
+    {
+      "tag": "Awareness Campaigns",
+      "patterns": [
+        "What awareness campaigns are conducted by the Anti-Ragging Cell?",
+        "How can I participate in awareness programs?",
+        "Are there any workshops on preventing ragging?",
+        "What materials are distributed during awareness campaigns?",
+        "How often are awareness campaigns held?"
+      ],
+      "responses": [
+        "The Anti-Ragging Cell conducts various awareness campaigns, including workshops, seminars, and distribution of informational materials.",
+        "You can participate in awareness programs by volunteering with the Anti-Ragging Cell or attending scheduled events.",
+        "Yes, workshops on preventing ragging are held regularly to educate students about the issue and promote a safe campus environment.",
+        "Materials distributed during awareness campaigns may include brochures, posters, and pamphlets that provide information on the consequences of ragging.",
+        "Awareness campaigns are typically held at the beginning of each academic year and periodically throughout the year."
+      ]
+    },
+    {
+      "tag": "HoD CSE",
+      "patterns": [
+        "Who is the HoD for CSE?",
+        "What is the contact number for Mrs. Rupali Kumari?"
+      ],      "responses": [
+        "The HoD for CSE is Mrs. Rupali Kumari.",
+        "You can contact Mrs. Rupali Kumari at rupalik7@gmail.com."
+      ]
+    },
+    {
+      "tag": "HoD EE",
+      "patterns": [
+        "Who is the HoD for EE?",
+        "What is the contact number for Mr. Wasim Akram?"
+      ],
+      "responses": [
+        "The HoD for EE is Mr. Wasim Akram.",
+        "You can contact Mr. Wasim Akram at akramwasim412@gmail.com."
+      ]
+    },
+    {
+      "tag": "Hostel Superintendent",
+      "patterns": [
+        "Who is the Hostel Superintendent?",
+        "What is the contact number for the Hostel Superintendent?"
+      ],
+      "responses": [
+        "The Hostel Superintendent is Prof. Deepak Prasar.",
+        "You can contact Prof. Deepak Prasar at 9803913341."
+      ]
+    },
+    {
+      "tag": "Hostel Store In Charge",
+      "patterns": [
+        "Who is the Hostel Store In Charge?",
+        "What is the contact number for the Hostel Store In Charge?"
+      ],
+      "responses": [
+        "The Hostel Store In Charge is Prof. Sudhanshu Shekhar.",
+        "You can contact Prof. Sudhanshu Shekhar at 7611894603."
+      ]
+    },
+  {
+    "tag": "Hostel Store In Charge",
+    "patterns": [
+      "Who is the Hostel Store In Charge?",
+      "What is the contact number for the Hostel Store In Charge?",
+      "What are the office hours of the Hostel Store?",
+      "Where is the Hostel Store located?",
+      "What items are available in the Hostel Store?",
+      "How can I place an order for items from the Hostel Store?",
+      "Are there any specific rules for using the Hostel Store?",
+      "Is there a feedback mechanism for the Hostel Store?",
+      "What payment methods are accepted at the Hostel Store?",
+      "Can I return items purchased from the Hostel Store?",
+      "Are there any discounts available for bulk purchases?",
+      "How often is the inventory updated in the Hostel Store?",
+      "Who can access the Hostel Store?"
+    ],
+    "responses": [
+      "The Hostel Store In Charge is Prof. Sudhanshu Shekhar.",
+      "You can contact Prof. Sudhanshu Shekhar at 7611894603.",
+      "The office hours of the Hostel Store are typically from 9 AM to 5 PM, Monday to Friday.",
+      "The Hostel Store is located in the main hostel building, near the common room.",
+      "The Hostel Store offers a variety of items, including toiletries, snacks, stationery, and basic groceries.",
+      "To place an order for items from the Hostel Store, you can visit during office hours or contact the Hostel Store In Charge directly.",
+      "Yes, there are specific rules for using the Hostel Store, including maintaining cleanliness and returning borrowed items on time.",
+      "Yes, there is a feedback mechanism for the Hostel Store. You can provide feedback directly to the Hostel Store In Charge or through a suggestion box located in the store.",
+      "The payment methods accepted at the Hostel Store include cash and digital payment options like UPI.",
+      "Items purchased from the Hostel Store can be returned within 7 days if they are unopened and in their original condition.",
+      "Yes, discounts may be available for bulk purchases. Please inquire with the Hostel Store In Charge for more details.",
+      "The inventory in the Hostel Store is updated regularly, typically once a week, to ensure availability of essential items.",
+      "The Hostel Store is accessible to all hostel residents and authorized staff members."
+    ]
+  },
+  {
+    "tag": "Hostel Facilities",
+    "patterns": [
+      "What facilities are available in the hostel?",
+      "Is there Wi-Fi available in the hostel?",
+      "Are there common areas for students?",
+      "What are the rules for using common areas?",
+      "Is there a laundry facility in the hostel?",
+      "Are there any recreational facilities available?",
+      "What is the policy for guests visiting the hostel?",
+      "How are the rooms allocated in the hostel?",
+      "What is the check-in and check-out process for the hostel?"
+    ],
+    "responses": [
+      "The hostel offers various facilities, including Wi-Fi, common rooms, study areas, and laundry services.",
+      "Yes, Wi-Fi is available in the hostel for all residents.",
+      "Yes, there are common areas for students to relax, study, and socialize.",
+      "The rules for using common areas include keeping the space clean and respecting others' privacy.",
+      "Yes, there is a laundry facility in the hostel, equipped with washing machines and drying areas.",
+      "Recreational facilities include a gym, indoor games room, and outdoor sports areas.",
+      "Guests are allowed to visit the hostel, but they must register at the front desk and follow the visitor policy.",
+      "Rooms in the hostel are allocated based on availability and may consider factors like year of study and special requests.",
+      "The check-in process involves presenting identification and completing necessary paperwork, while check-out requires returning keys and settling any dues."
+    ]
+  },
+  {
+    "tag": "Hostel Rules and Regulations",
+    "patterns": [
+      "What are the rules for staying in the hostel?",
+      "Is there a curfew for hostel residents?",
+      "What should I do if I lose my hostel key?",
+      "Are pets allowed in the hostel?",
+      "What is the policy on noise levels in the hostel?",
+      "How are disputes between residents handled?",
+      "What happens if a resident violates hostel rules?",
+      "Is smoking allowed in the hostel?",
+      "Can I change my room if I am not comfortable?"
+    ],
+    "responses": [
+      "The rules for staying in the hostel include maintaining cleanliness, respecting fellow residents, and adhering to the check-in/check-out timings.",
+      "Yes, there is a curfew for hostel residents, typically around 11 PM, to ensure safety and security.",
+      "If you lose your hostel key, you should report it to the Hostel In Charge immediately to arrange for a replacement.",
+      "No, pets are not allowed in the hostel to maintain hygiene and safety.",
+      "The policy on noise levels in the hostel requires residents to keep noise to a minimum, especially during late hours.",
+      "Disputes between residents are handled by the Hostel Warden, who will mediate and find a resolution.",
+      "If a resident violates hostel rules, they may face disciplinary action, which could include warnings or eviction, depending on the severity.",
+      "Smoking is not allowed in the hostel premises to ensure a healthy environment for all residents.",
+      "Yes, you can request a room change if you are not comfortable, but it is subject to availability and approval from the Hostel In Charge."
+    ]
+  },
+  {
+    "tag": "Hostel Dining",
+    "patterns": [
+      "Is there a dining facility in the hostel?",
+      "What are the meal timings in the hostel?",
+      "Can I opt for vegetarian or non-vegetarian meals?",
+      "Are there any special dietary options available?",
+      "What is the process for raising complaints about food quality?",
+      "Is there a mess fee, and how is it charged?",
+      "Can I cook in the hostel?"
+    ],
+    "responses": [
+      "Yes, there is a dining facility in the hostel that serves meals to residents.",
+      "Meal timings in the hostel are typically breakfast from 7 AM to 9 AM, lunch from 12 PM to 2 PM, and dinner from 7 PM to 9 PM.",
+      "Yes, residents can opt for vegetarian or non-vegetarian meals based on their preferences.",
+      "Special dietary options can be arranged upon request. Please inform the dining staff in advance.",
+      "To raise complaints about food quality, residents can speak to the dining supervisor or submit a written complaint to the Hostel In Charge.",
+      "Yes, there is a mess fee that is charged monthly, and it is included in the hostel fees.",
+      "Cooking in the hostel is generally not allowed, but there may be designated areas for light cooking in some hostels."
+    ]
+  },
+  {
+    "tag": "Hostel Maintenance",
+    "patterns": [
+      "How can I report maintenance issues in the hostel?",
+      "What should I do if there is a plumbing issue?",
+      "Is there a maintenance team available?",
+      "How often are common areas cleaned?",
+      "What is the procedure for requesting repairs in my room?",
+      "Are there any scheduled inspections of the hostel facilities?"
+    ],
+    "responses": [
+      "To report maintenance issues in the hostel, you can contact the Hostel In Charge or fill out a maintenance request form available at the front desk.",
+      "If there is a plumbing issue, report it immediately to the Hostel In Charge for prompt action.",
+      "Yes, there is a maintenance team available to address issues as they arise.",
+      "Common areas are typically cleaned daily to ensure a hygienic environment for all residents.",
+      "To request repairs in your room, inform the Hostel In Charge, who will coordinate with the maintenance team.",
+      "Yes, there are scheduled inspections of the hostel facilities conducted regularly to ensure everything is in good condition."
+    ]
+  },
+    {
+      "tag": "Asst. Hostel Superintendent",
+      "patterns": [
+        "Who is the Assistant Hostel Superintendent?",
+        "What is the contact number for the Assistant Hostel Superintendent?"
+      ],
+      "responses": [
+        "The Assistant Hostel Superintendent is Prof. Pranay Kumar.",
+        "You can contact Prof. Pranay Kumar at 8800321401 or 8920034938."
+      ]
+    },
+    {
+      "tag": "Girl's Hostel Superintendent",
+      "patterns": [
+        "Who is the Hostel Superintendent for the Girl's Hostel?",
+        "What is the contact number for the Girl's Hostel Superintendent?"
+      ],
+      "responses": [
+        "The Hostel Superintendent for the Girl's Hostel is Prof. Rupali Kumari.",
+        "You can contact Prof. Rupali Kumari at 7080190421."
+      ]
+    },
+    {
+      "tag": "Girl's Hostel Asst. Superintendent",
+      "patterns": [
+        "Who is the Assistant Hostel Superintendent for the Girl's Hostel?",
+        "What is the contact number for the Assistant Hostel Superintendent?"
+      ],
+      "responses": [
+        "The Assistant Hostel Superintendent for the Girl's Hostel is Prof. Sarita Rani.",
+        "You can contact Prof. Sarita Rani at 965063024."
+      ]
+    },
+    {
+      "tag": "Student Credit Card Cell P/I",
+      "patterns": [
+        "Who is the P/I for the Student Credit Card Cell?",
+        "What is the contact number for the P/I of the Student Credit Card Cell?"
+      ],
+      "responses": [
+        "The P/I for the Student Credit Card Cell is Prof. Sanjeev Kumar.",
+        "You can contact Prof. Sanjeev Kumar at 9835393900."
+      ]
+    },
+    {
+      "tag": "Guest Technical Instructor",
+      "patterns": [
+        "Who is the Guest Technical Instructor for the Student Credit Card Cell?",
+        "What is the contact number for the Guest Technical Instructor?"
+      ],
+      "responses": [
+        "The Guest Technical Instructor for the Student Credit Card Cell is Mr. Tarun Kumar.",
+        "You can contact Mr. Tarun Kumar at 7543878802."
+      ]
+    },
+    {
+      "tag": "Library P/I",
+      "patterns": [
+        "Who is the P/I for the Library Section?",
+        "What is the contact number for the P/I of the Library Section?"
+      ],
+      "responses": [
+        "The P/I for the Library Section is Prof. Anand Kumar.",
+        "You can contact Prof. Anand Kumar at 7488100328."
+      ]
+    },
+    {
+      "tag": "Assistant Librarian",
+      "patterns": [
+        "Who is the Assistant Librarian?",
+        "What is the contact number for the Assistant Librarian?"
+      ],
+      "responses": [
+        "The Assistant Librarian is Smt. Suhansni Murmu.",
+        "You can contact Smt. Suhansni Murmu at 8521238935."
+      ]
+    },
+    {
+      "tag": "NATS Trainee",
+      "patterns": [
+        "Who is the NATS Trainee in the Library Section?",
+        "What is the contact number for the NATS Trainee?"
+      ],
+      "responses": [
+        "The NATS Trainee in the Library Section is Mr. Deepak Kumar.",
+        "You can contact Mr. Deepak Kumar for assistance."
+      ]
+    },
+    {
+      "tag": "Scholarship Section P/I",
+      "patterns": [
+        "Who is the P/I for the Scholarship Section?",
+        "What is the contact number for the P/I of the Scholarship Section?"
+      ],
+      "responses": [
+        "The P/I for the Scholarship Section is Prof. Akhilesh Paswan.",
+        "You can contact Prof. Akhilesh Paswan at 7364015628."
+      ]
+    },
+    {
+      "tag": "Store Officer",
+      "patterns": [
+        "Who is the Store Officer?",
+        "What is the contact number for the Store Officer?"
+      ],
+      "responses": [
+        "The Store Officer is Prof. Sudhandhu Shekhar.",
+        "You can contact Prof. Sudhandhu Shekhar at 7611894603."
+      ]
+    },
+    {
+      "tag": "Head Clerk Store",
+      "patterns": [
+        "Who is the Head Clerk in the Store Section?",
+        "What is the contact number for the Head Clerk?"
+      ],
+      "responses": [
+        "The Head Clerk in the Store Section is Mr. Deepak Kumar.",
+        "You can contact Mr. Deepak Kumar at 8406072817."
+      ]
+    },
+    {
+      "tag": "Establishment Clerk",
+      "patterns": [
+        "Who is the Establishment Clerk?",
+        "What is the contact number for the Establishment Clerk?"
+      ],
+      "responses": [
+        "The Establishment Clerk is Mr. Deepak Kumar.",
+        "You can contact Mr. Deepak Kumar at 8406072817."
+      ]
+    },
+    {
+      "tag": "Assistant P/I Sports",
+      "patterns": [
+        "Who is the Assistant P/I for Sports?",
+        "What is the contact number for the Assistant P/I Sports?"
+      ],
+      "responses": [
+        "The Assistant P/I for Sports is Prof. Nishant Bharti.",
+        "You can contact Prof. Nishant Bharti at 9570921241."
+      ]
+    },
+    {
+      "tag": "Assistant P/I Sports (Sarita Rani)",
+      "patterns": [
+        "Who is the Assistant P/I for Sports from ECE?",
+        "What is the contact number for Prof. Sarita Rani?"
+      ],
+      "responses": [
+        "The Assistant P/I for Sports from ECE is Prof. Sarita Rani.",
+        "You can contact Prof. Sarita Rani at 9650638024."
+      ]
+    },
+    {
+      "tag": "Assistant P/I Sports (Ajit Kumar Tanti)",
+      "patterns": [
+        "Who is the Assistant P/I for Sports from ME?",
+        "What is the contact number for Prof. Ajit Kumar Tanti?"
+      ],
+      "responses": [
+        "The Assistant P/I for Sports from ME is Prof. Ajit Kumar Tanti.",
+        "You can contact Prof. Ajit Kumar Tanti at 8538995371."
+      ]
+    },
+    {
+      "tag": "AICTE P/I",
+      "patterns": [
+        "Who is the P/I for AICTE?",
+        "What is the contact number for the P/I of AICTE?"
+      ],
+      "responses": [
+        "The P/I for AICTE is Prof. Amrit Kumar Singh.",
+        "You can contact Prof. Amrit Kumar Singh at 9713685324."
+      ]
+    },
+    {
+      "tag": "Alumni Association President",
+      "patterns": [
+        "Who is the President of the Alumni Association?",
+        "What is the contact number for the President of the Alumni Association?"
+      ],
+      "responses": [
+        "The President of the Alumni Association is Prof. Pragya Prakash.",
+        "You can contact Prof. Pragya Prakash at 9939681102."
+      ]
+    },
+    {
+      "tag": "Alumni Association Vice President",
+      "patterns": [
+        "Who is the Vice President of the Alumni Association?",
+        "What is the contact number for the Vice President of the Alumni Association?"
+      ],
+      "responses": [
+        "The Vice President of the Alumni Association is Prof. Abhishek Ranjan.",
+        "You can contact Prof. Abhishek Ranjan at 8936041346."
+      ]
+    },
+    {
+      "tag": "Fee Structure",
+      "patterns": [
+        "What is the fee structure for admission?",
+        "Can you provide the fee details for UR/OBC and SC/ST categories?",
+        "How much is the total fee for UR students?",
+        "What fees do SC/ST students need to pay?",
+        "Can you break down the fees for admission?",
+        "What is the total fee for lateral entry students?",
+        "Is there any extra fee for the I-Card?"
+      ],
+      "responses": [
+        "The fee structure for admission is as follows:\n\n**For UR/OBC:**\n- Development Fee: 2500/-\n- Admission Fee: 10/-\n- Tuition Fee: 120/-\n- Insurance Fee: 400/-\n- **Total: 3030/-**\n\n**For SC/ST:**\n- Development Fee: 2500/-\n- Admission Fee: 10/-\n- Tuition Fee: 0/-\n- Insurance Fee: 400/-\n- **Total: 2910/-**\n\n**For lateral entry students:**\n\n**For UR/OBC:**\n- Total: 2930/-\n\n**For SC/ST:**\n- Total: 2810/-\n\n**Note:** I-Card Rs.200/- is to be paid extra."
+      ]
+    },
+    {
+      "tag": "Annual Fees",
+      "patterns": [
+        "What are the annual fees after admission?",
+        "How much do students pay every year?",
+        "What is the yearly fee for General category students?",
+        "What is the annual fee for SC/ST students?",
+        "Are there any additional fees after the first year?"
+      ],
+      "responses": [
+        "After admission, every year the students of the General/OBC/EBC/BC category will have to pay Rs 2630.00/-. SC/ST category students will have to pay Rs 2510/-."
+      ]
+    },
+    {
+      "tag": "Admission In-Charge",
+      "patterns": [
+        "Who is the Admission In-Charge?",
+        "What is the contact number for the Admission In-Charge?",
+        "How can I reach the Admission In-Charge?",
+        "Who should I contact for admission inquiries?"
+      ],
+      "responses": [
+        "The Admission In-Charge is Mr. Amit Dipankar. You can contact him at 9886440441."
+      ]
+    },
+    {
+      "tag": "Admission Team Members",
+      "patterns": [
+        "Who are the members of the admission team?",
+        "What are the contact numbers for the admission team members?",
+        "Can you list the admission team members?",
+        "Who else is on the admission team?"
+      ],
+      "responses": [
+        "The admission team members are:\n- Mr. Akhilesh Paswan: 7364015628\n- Mr. Gaurav Kumar: 8218777356."
+      ]
+    },
+    {
+      "tag": "UG Courses Offered",
+      "patterns": [
+        "What UG courses are offered at GEC, Banka?",
+        "Can you list the branches available for UG courses?",
+        "What are the available engineering courses?",
+        "How many seats are there for each course?",
+        "What is the intake for Computer Science and Engineering?"
+      ],
+      "responses": [
+        "The following UG courses are offered at GEC, Banka:\n1. Civil Engineering - Intake: 60\n2. Mechanical Engineering - Intake: 60\n3. Electrical Engineering - Intake: 60\n4. Electronics & Communication Engineering - Intake: 60\n5. Computer Science and Engineering - Intake: 60\n6. Computer Science and Engineering (IOT) - Intake: 60."
+      ]
+    },
+    {
+      "tag": "T&P Vision",
+      "patterns": [
+        "What is the vision of the Training & Placement Department?",
+        "Can you tell me about the vision of T&P GEC, Banka?",
+        "What does T&P GEC, Banka aim to achieve?",
+        "How does T&P GEC, Banka envision its future?"
+      ],
+      "responses": [
+        "The vision of T&P GEC, Banka is to establish GEC, Banka as a hub for career opportunities in the country."
+      ]
+    },
+    {
+      "tag": "T&P Mission",
+      "patterns": [
+        "What is the mission of the Training & Placement Department?",
+        "Can you explain the mission of T&P GEC, Banka?",
+        "What are the goals of T&P GEC, Banka?",
+        "How does T&P GEC, Banka support student careers?"
+      ],
+      "responses": [
+        "The mission of T&P GEC, Banka is to provide students with necessary training to enhance their employability and support them with the best possible career opportunities, ultimately assisting in their professional growth."
+      ]
+    },
+    {
+      "tag": "T&P Objectives",
+      "patterns": [
+        "What are the objectives of the Training & Placement Department?",
+        "Can you list the objectives of T&P GEC, Banka?",
+        "What goals does T&P GEC, Banka focus on?",
+        "How does T&P GEC, Banka prepare students for jobs?"
+      ],
+      "responses": [
+        "The objectives of T&P GEC, Banka include:\n1. Design & organize training programs on trending topics and employability skills.\n2. Identify prospective recruiters and maintain relations with corporate houses.\n3. Explore possibilities for industry-driven training sessions.\n4. Facilitate GEC, Banka's rating as one of the best performing institutes in terms of career opportunities."
+      ]
+    },
+    {
+      "tag": "T&P Overview",
+      "patterns": [
+        "What is the overview of the Training & Placement Department?",
+        "Can you provide an overview of T&P GEC, Banka?",
+        "What does the T&P Department do?",
+        "How does T&P GEC, Banka assist students?"
+      ],
+      "responses": [
+        "The Training & Placement (T&P) Department is the hub for interaction between corporate, industries, and GEC, Banka, assisting in placements for eligible students through campus placement. T&P also arranges pre-placement training and organizes Industry-Academia Interaction meets."
+      ]
+    },
+    {
+      "tag": "Practice School",
+      "patterns": [
+        "What is the Practice School concept?",
+        "How does the Practice School benefit students?",
+        "What do students gain from the Practice School?",
+        "Can you explain the Practice School program?"
+      ],
+      "responses": [
+        "The Practice School concept allows UG students to spend quality time in the industry, gaining valuable exposure and improving their industry readiness and core competence. This concept has been well appreciated by industries."
+      ]
+    },
+    {
+      "tag": "T&P Facilities",
+      "patterns": [
+        "What facilities are available in the Training & Placement Department?",
+        "Can you list the training and placement facilities?",
+        "What resources does T&P GEC, Banka offer?",
+        "Are there any special facilities for training?"
+      ],
+      "responses": [
+        "The Training and Placement facilities include:\n- Video Conferencing facility\n- Seminar Hall\n- Conference room\n- Lounge for Group Discussion."
+      ]
+    },
+    {
+      "tag": "T&P Strengths",
+      "patterns": [
+        "What are the strengths of the Training & Placement Department?",
+        "Can you tell me about the strengths of T&P GEC, Banka?",
+        "What makes T&P GEC, Banka unique?",
+        "How does T&P GEC, Banka stand out from other institutes?"
+      ],
+      "responses": [
+        "The strengths of T&P GEC, Banka include:\n- Serene surroundings and closeness to nature for an ideal learning environment.\n- Curriculum tailored to industry requirements, making students industry-ready.\n- Well-stocked library and state-of-the-art laboratories."
+      ]
+    },
+    {
+      "tag": "T&P Contact Details",
+      "patterns": [
+        "Who is the Training & Placement Officer?",
+        "What are the contact numbers for the T&P officers?",
+        "How can I reach the T&P officers?",
+        "Who should I contact for placement inquiries?",
+        "Can you provide the contact information for the T&P team?"
+      ],
+      "responses": [
+        "The Training & Placement Officers are:\n- Prof. Sudhanshu Shekhar (Training & Placement Officer) - 7611894603\n- Prof. Nilesh Kumar (Asst. Training & Placement Officer) - 7909045025\n- Prof. Deeba Ashique (Asst. Training & Placement Officer) - 7827327496\n- Prof. Shanti Jaiswal (Asst. Training & Placement Officer) - 9179875114."
+      ]
+    },
+    {
+      "tag": "HoD CSE IOT",
+      "patterns": [
+        "Who is the Head of the Computer Science and Engineering (IOT) department?",
+        "What is the contact information for Prof. Rupali Kumari?",
+        "Can you tell me about the HoD of CSE IOT?",
+        "Who leads the CSE IOT department?",
+        "What is Prof. Rupali Kumari's phone number?"
+      ],
+      "responses": [
+        "The Head of the Computer Science and Engineering (IOT) department is Prof. Rupali Kumari. You can contact her at 7080190421."
+      ]
+    },
+    {
+      "tag": "Guest Technical Assistant",
+      "patterns": [
+        "Who is the Guest Technical Assistant in the CSE (IOT) department?",
+        "What is the contact information for Miss Jyoti Kumari?",
+        "Can you tell me about the Guest Technical Assistant?",
+        "What does the Guest Technical Assistant do?",
+        "How can I reach Miss Jyoti Kumari?"
+      ],
+      "responses": [
+        "The Guest Technical Assistant in the CSE (IOT) department is Miss Jyoti Kumari. You can contact her at Jyoti@gecbanka.org."
+      ]
+    },
+    {
+      "tag": "Assistant Professor Nilabh Kumar",
+      "patterns": [
+        "Who is Prof. Nilabh Kumar?",
+        "What is the contact information for Prof. Nilabh Kumar?",
+        "Can you provide details about Prof. Nilabh Kumar?",
+        "What courses does Prof. Nilabh Kumar teach?",
+        "How can I contact Prof. Nilabh Kumar?"
+      ],
+      "responses": [
+        "Prof. Nilabh Kumar is an Assistant Professor in the CSE (IOT) department. You can contact him at 7002255645 or via email at nilabhk@gecbanka.org."
+      ]
+    },
+    {
+      "tag": "Assistant Professor Abhishek Ranjan",
+      "patterns": [
+        "Who is Prof. Abhishek Ranjan?",
+        "What is the contact information for Prof. Abhishek Ranjan?",
+        "Can you provide details about Prof. Abhishek Ranjan?",
+        "What subjects does Prof. Abhishek Ranjan teach?",
+        "How can I reach Prof. Abhishek Ranjan?"
+      ],
+      "responses": [
+        "Prof. Abhishek Ranjan is an Assistant Professor in the CSE (IOT) department. You can contact him at 8936041346 or via email at abhishekranjan@gecbanka.org."
+      ]
+    },
+    {
+      "tag": "Assistant Professor Nilesh Kumar",
+      "patterns": [
+        "Who is Prof. Nilesh Kumar?",
+        "What is the contact information for Prof. Nilesh Kumar?",
+        "Can you provide details about Prof. Nilesh Kumar?",
+        "What courses does Prof. Nilesh Kumar teach?",
+        "How can I contact Prof. Nilesh Kumar?"
+      ],
+      "responses": [
+        "Prof. Nilesh Kumar is an Assistant Professor in the CSE (IOT) department. You can contact him at 7909045025 or via email at nilesh.k@gecbanka.org."
+      ]
+    },
+    {
+      "tag": "Assistant Professor Km Amrita",
+      "patterns": [
+        "Who is Prof. Km Amrita?",
+        "What is the contact information for Prof. Km Amrita?",
+        "Can you provide details about Prof. Km Amrita?",
+        "What subjects does Prof. Km Amrita teach?",
+        "How can I reach Prof. Km Amrita?"
+      ],
+      "responses": [
+        "Prof. Km Amrita is an Assistant Professor in the CSE (IOT) department. You can contact her at 8574391308 or via email at aamritakumari905@gmail.com."
+      ]
+    },
+    {
+      "tag": "Assistant Professor Nadiya Zafar",
+      "patterns": [
+        "Who is Prof. Nadiya Zafar?",
+        "What is the contact information for Prof. Nadiya Zafar?",
+        "Can you provide details about Prof. Nadiya Zafar?",
+        "What courses does Prof. Nadiya Zafar teach?",
+        "How can I contact Prof. Nadiya Zafar?"
+      ],
+      "responses": [
+        "Prof. Nadiya Zafar is an Assistant Professor in the CSE (IOT) department. You can contact her at 9572227252 or via email at nadiyazafar5@gmail.com."
+      ]
+    },
+    {
+      "tag": "Assistant Professor Shabistan Ahmad",
+      "patterns": [
+        "Who is Prof. Shabistan Ahmad?",
+        "What is the contact information for Prof. Shabistan Ahmad?",
+        "Can you provide details about Prof. Shabistan Ahmad?",
+        "What subjects does Prof. Shabistan Ahmad teach?",
+        "How can I reach Prof. Shabistan Ahmad?"
+      ],
+      "responses": [
+        "Prof. Shabistan Ahmad is an Assistant Professor in the CSE (IOT) department. You can contact him at 8235787965 or via email at shabistan.ahmad@gecbanka.org."
+      ]
+    },
+    {
+      "tag": "Assistant Professor Ravi Ranjan",
+      "patterns": [
+        "Who is Prof. Ravi Ranjan?",
+        "What is the contact information for Prof. Ravi Ranjan?",
+        "Can you provide details about Prof. Ravi Ranjan?",
+        "What courses does Prof. Ravi Ranjan teach?",
+        "How can I contact Prof. Ravi Ranjan?"
+      ],
+      "responses": [
+        "Prof. Ravi Ranjan is an Assistant Professor in the CSE (IOT) department. You can contact him at 8454895763 or via email at ravi@gecbanka.org."
+      ]
+    }
+  ]
+}
