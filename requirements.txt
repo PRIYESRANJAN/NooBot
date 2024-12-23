@@ -1,5 +1,5 @@
-numpy==1.21.0
-nltk==3.6.3
-pandas==1.3.0
-scikit-learn==0.24.2
-streamlit==0.87.0
+numpy==1.23.5       # Or numpy==1.24.x
+nltk==3.8.1         # Or latest NLTK version
+pandas==1.5.3       # Or any stable version >=1.4.x
+scikit-learn==1.3.0  # Or latest stable version
+streamlit==1.24.0   # Or latest stable version
