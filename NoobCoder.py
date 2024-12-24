@@ -52,12 +52,12 @@ def get_response(tag):
     for intent in intents['intents']:
         if intent['tag'] == tag:
             return random.choice(intent['responses'])
-    return "Sorry, I don't understand."
+    return "I don't understand."
 
 # Function to log chat history to CSV
 def log_chat(user_input, bot_response):
     log_file = 'chat_log.csv'
-    new_entry = pd.DataFrame([[user_input, bot_response]], columns=['User ', 'Bot'])
+    new_entry = pd.DataFrame([[user_input, bot_response]], columns=['User   ', 'Bot'])
     
     if os.path.isfile(log_file):
         new_entry.to_csv(log_file, mode='a', header=False, index=False)
@@ -108,9 +108,9 @@ def main():
 
     # Sidebar for navigation
     st.sidebar.title("Navigation")
-    option = st.sidebar.selectbox("Select an option", ["Home", "Chat History", "Connect Us", "Syllabus", "Question Bank"])
+    option = st.sidebar.selectbox("Select an option", ["Home", "Connect Us", "Syllabus", "Question Bank"])
 
-    #    # Main content area based on dropdown selection
+    # Main content area based on dropdown selection
     if option == "Home":
         st.title("Welcome to the Chatbot!")
         st.write("Type your message below to chat with the bot.")
@@ -118,7 +118,7 @@ def main():
         user_input = st.text_input("You: ")
 
         if st.button("Send"):
-            if user_input:
+            if user_input:  # Correctly indented
                 predicted_tag_index = predict_class(user_input)
                 predicted_tag = list(tag_to_index.keys())[predicted_tag_index]
                 response = get_response(predicted_tag)
@@ -127,20 +127,9 @@ def main():
                 log_chat(user_input, response)
 
                 # Display the bot's response
-                if isinstance(response, str):
-                    st.write(f"Bot: {response}")
-                else:
-                    st.write("Bot: Sorry, I encountered an error.")
+                st.write(f"Bot: {response}")
             else:
-                st.warning("Please enter a message before sending.")
-    
-    elif option == "Chat History":
-        st.title("Chat History")
-        if os.path.exists('chat_log.csv'):
-            chat_history_df = pd.read_csv('chat_log.csv')
-            st.write(chat_history_df)
-        else:
-            st.write("No chat history found.")
+                                st.warning("Please enter a message before sending.")
 
     elif option == "Connect Us":
         st.title("Connect Us")
@@ -178,7 +167,7 @@ def main():
                 "2nd": "https://docs.google.com/uc?export=download&id=1pGoXGR0RfXfRvkeJy_nxiA-E_YIFy35b",
                 "3rd": "https://docs.google.com/uc?export=download&id=1cDvVPlLDC0ziZCUz31rtqs8cSij8XLhq",
                 "4th": "https://docs.google.com/uc?export=download&id=1Odjrqru3hIkCSBD4tutxWRoE4ruSMz-m",
-                "5th": "https://docs.google.com/uc?export=download&id=1iZE2-nGPyevgeM7HE8Xt5SnKqzSTNfLh",
+                                "5th": "https://docs.google.com/uc?export=download&id=1iZE2-nGPyevgeM7HE8Xt5SnKqzSTNfLh",
                 "6th": "https://docs.google.com/uc?export=download&id=14QlVfyR70AgRzyDaLmOBDbVLoLUb7T5z",
                 "7th": "https://docs.google.com/uc?export=download&id=1IZAgJM44r5P-fuohdinxDU2aU7G4fMep",
                 "8th": "https://beubiharsyllabus.blogspot.com/undefined",
@@ -208,7 +197,7 @@ def main():
                 "2nd": "https://docs.google.com/uc?export=download&id=12KVc8Se7WrHMWlNCT75scOcasv5hqI5i",
                 "3rd": "https://docs.google.com/uc?export=download&id=1ad6J8hAehBRfHZJy2-lJ_7r9N51bVgBR",
                 "4th": "https://docs.google.com/uc?export=download&id=1-Hd_veE0lx39kingmX0JfME4KIZgQIDw",
-                "5th": "https://docs.google.com/uc?export=download&id=1vmeOiGWlVW8a353acZDYVquz1B2_2MA9",
+                                "5th": "https://docs.google.com/uc?export=download&id=1vmeOiGWlVW8a353acZDYVquz1B2_2MA9",
                 "6th": "https://docs.google.com/uc?export=download&id=1bwGcRxw0H3qPJ6rfEwMiiRhc2e8bzcz7",
                 "7th": "https://docs.google.com/uc?export=download&id=1xqHKy-9Ae4mxoaYQgMMs7Ww9wg4ORaUp",
                 "8th": "https://beubiharsyllabus.blogspot.com/undefined",
@@ -255,7 +244,7 @@ def main():
                 "2nd": "https://example.com/ece/2nd-semester-question-bank",
                 "3rd": "https://example.com/ece/3rd-semester-question-bank",
                 "4th": "https://example.com/ece/4th-semester-question-bank",
-                                "5th": "https://example.com/ece/5th-semester-question-bank",
+                "5th": "https://example.com/ece/5th-semester-question-bank",
                 "6th": "https://example.com/ece/6th-semester-question-bank",
                 "7th": "https://example.com/ece/7th-semester-question-bank",
                 "8th": "https://example.com/ece/8th-semester-question-bank",
@@ -267,7 +256,7 @@ def main():
                 "4th": "https://example.com/ee/4th-semester-question-bank",
                 "5th": "https://example.com/ee/5th-semester-question-bank",
                 "6th": "https://example.com/ee/6th-semester-question-bank",
-                "7th": "https://example.com/ee/7th-semester-question-bank",
+                                "7th": "https://example.com/ee/7th-semester-question-bank",
                 "8th": "https://example.com/ee/8th-semester-question-bank",
             },
             "CE": {
