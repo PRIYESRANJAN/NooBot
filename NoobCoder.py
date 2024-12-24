@@ -133,7 +133,7 @@ def main():
 
     elif option == "Connect Us":
         st.title("Connect Us")
-        st.write("You can reach us at: support@example.com")
+        st.write("You can reach us at: priyesranjan@gmail.com")
 
     elif option == "Syllabus":
         st.title("Syllabus")
